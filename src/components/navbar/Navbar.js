@@ -9,9 +9,9 @@ export default class Navbar extends React.Component
         return (
             <BrowserRouter>
                 <nav>
-                    <div class="nav-wrapper">
+                    <div className="nav-wrapper green">
                         <Link to="/" className="brand-logo">SIA web portal</Link>
-                      <ul id="nav-mobile" class="right hide-on-med-and-down">
+                      <ul id="nav-mobile" className="right hide-on-med-and-down">
                         <li><Link to="/excel-form">SIA web portal</Link></li>
                         <li><Link to="/">SIA web portal</Link></li>
                         <li><Link to="/">SIA web portal</Link></li>

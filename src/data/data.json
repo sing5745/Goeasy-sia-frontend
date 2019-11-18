@@ -1,0 +1,3615 @@
+[
+	{
+		"Branch": "2201",
+		"easyhome Store": "",
+		"Address": "240 Mayfield Common NW",
+		"Address2": "Unit A015",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T5P 4B3",
+		"Phone": "(780) 444-1088"
+	},
+	{
+		"Branch": "2202",
+		"easyhome Store": "",
+		"Address": "13508 Victoria Trail",
+		"Address2": "Unit 3",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T5A 5C9",
+		"Phone": "(780) 809-3755"
+	},
+	{
+		"Branch": "2206",
+		"easyhome Store": "",
+		"Address": "10915 104A Ave.",
+		"Address2": "Unit 105",
+		"City": "Grande Prairie",
+		"Province": "AB",
+		"Postal Code": "T8V 8J6",
+		"Phone": "(780) 833-4097"
+	},
+	{
+		"Branch": "2209",
+		"easyhome Store": "",
+		"Address": "6503 51 St",
+		"Address2": "Unit 205",
+		"City": "Cold Lake",
+		"Province": "AB",
+		"Postal Code": "T9M 1C8",
+		"Phone": "(780) 594-4629"
+	},
+	{
+		"Branch": "2214",
+		"easyhome Store": "",
+		"Address": "6570 28th Ave. NW",
+		"Address2": "",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T6L 6N3",
+		"Phone": "(780) 462-0417"
+	},
+	{
+		"Branch": "2216",
+		"easyhome Store": "3219",
+		"Address": "3760 56th St",
+		"Address2": "",
+		"City": "Wetaskiwin",
+		"Province": "AB",
+		"Postal Code": "T9A 2B2",
+		"Phone": "(780) 352-3308"
+	},
+	{
+		"Branch": "2217",
+		"easyhome Store": "",
+		"Address": "6102 50th St.",
+		"Address2": "Unit # 104",
+		"City": "Leduc",
+		"Province": "AB",
+		"Postal Code": "T9E 7L2",
+		"Phone": "(780) 612-1204"
+	},
+	{
+		"Branch": "2220",
+		"easyhome Store": "3213",
+		"Address": "8201 - 118th Ave. NW",
+		"Address2": "",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T5B 0S2",
+		"Phone": "(780) 474-2488"
+	},
+	{
+		"Branch": "2221",
+		"easyhome Store": "",
+		"Address": "11459 Kingsway Ave",
+		"Address2": "",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T5G 3E8",
+		"Phone": "(587) 782-3832"
+	},
+	{
+		"Branch": "2225",
+		"easyhome Store": "",
+		"Address": "8882 170 St. Nw",
+		"Address2": "Unit 1451",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T5T 4M2",
+		"Phone": "(587) 782-5045"
+	},
+	{
+		"Branch": "2226",
+		"easyhome Store": "",
+		"Address": "3422 99 St. NW",
+		"Address2": "",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T6K 0K7",
+		"Phone": "(587) 782-5032"
+	},
+	{
+		"Branch": "2227",
+		"easyhome Store": "",
+		"Address": "8161 99 St. NW",
+		"Address2": "",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T6E 3S9",
+		"Phone": "(587) 786-3490"
+	},
+	{
+		"Branch": "2101",
+		"easyhome Store": "",
+		"Address": "1225 Blanshard St",
+		"Address2": "",
+		"City": "Victoria",
+		"Province": "BC",
+		"Postal Code": "V8W 3J4",
+		"Phone": "(250) 380-3006"
+	},
+	{
+		"Branch": "2102",
+		"easyhome Store": "",
+		"Address": "4575 Uplands Dr",
+		"Address2": "Unit # 305",
+		"City": "Nanamio",
+		"Province": "BC",
+		"Postal Code": "V9T 6M8",
+		"Phone": "(250) 729-8223"
+	},
+	{
+		"Branch": "2110",
+		"easyhome Store": "",
+		"Address": "4152 Redford St",
+		"Address2": "Unit 203A",
+		"City": "Port Alberni",
+		"Province": "BC",
+		"Postal Code": "V9Y 3R5",
+		"Phone": "(250) 720-2116"
+	},
+	{
+		"Branch": "2121",
+		"easyhome Store": "",
+		"Address": "2900 Drinkwater Rd.",
+		"Address2": "Unit # 302",
+		"City": "Duncan",
+		"Province": "BC",
+		"Postal Code": "V9L 6C6",
+		"Phone": "(778) 748-0601"
+	},
+	{
+		"Branch": "2123",
+		"easyhome Store": "",
+		"Address": "1400 Dogwood St.",
+		"Address2": "Suite # 290",
+		"City": "Campbell River",
+		"Province": "BC",
+		"Postal Code": "V9W 3A6",
+		"Phone": "(250) 287-1260"
+	},
+	{
+		"Branch": "2128",
+		"easyhome Store": "",
+		"Address": "4746 Lakelse Ave",
+		"Address2": "",
+		"City": "Terrace",
+		"Province": "BC",
+		"Postal Code": "V8G 1R6",
+		"Phone": "(778) 505-2006"
+	},
+	{
+		"Branch": "2134",
+		"easyhome Store": "",
+		"Address": "309-2nd Ave.",
+		"Address2": "Suite 150",
+		"City": "Prince Rupert",
+		"Province": "BC",
+		"Postal Code": "V8J 3T1",
+		"Phone": "(250) 627-4785"
+	},
+	{
+		"Branch": "2138",
+		"easyhome Store": "",
+		"Address": "2961 Tillicum Rd",
+		"Address2": "Unit 3&4",
+		"City": "Victoria",
+		"Province": "BC",
+		"Postal Code": "V9A 2A6",
+		"Phone": "(778) 747-3980"
+	},
+	{
+		"Branch": "2139",
+		"easyhome Store": "3104",
+		"Address": "550 Fifth St.",
+		"Address2": "Unit 200",
+		"City": "Nanaimo",
+		"Province": "BC",
+		"Postal Code": "V9R 1P1",
+		"Phone": "(250) 754-6152"
+	},
+	{
+		"Branch": "2141",
+		"easyhome Store": "",
+		"Address": "752 Goldstream Ave",
+		"Address2": "Unit 752B",
+		"City": "Victoria",
+		"Province": "BC",
+		"Postal Code": "V9B 2X3",
+		"Phone": "(778) 401-9448"
+	},
+	{
+		"Branch": "2104",
+		"easyhome Store": "",
+		"Address": "10596 King George Blvd",
+		"Address2": "",
+		"City": "Surrey",
+		"Province": "BC",
+		"Postal Code": "V3T 2X3",
+		"Phone": "(604) 588-4895"
+	},
+	{
+		"Branch": "2105",
+		"easyhome Store": "",
+		"Address": "32500 South Fraser Way",
+		"Address2": "Unit # H214",
+		"City": "Abbotsford",
+		"Province": "BC",
+		"Postal Code": "V2T 4W1",
+		"Phone": "(604) 852-5930"
+	},
+	{
+		"Branch": "2107",
+		"easyhome Store": "",
+		"Address": "402 East Broadway",
+		"Address2": "",
+		"City": "Vancouver",
+		"Province": "BC",
+		"Postal Code": "V5T 1X2",
+		"Phone": "(604) 707-9357"
+	},
+	{
+		"Branch": "2115",
+		"easyhome Store": "",
+		"Address": "1600-15th Ave",
+		"Address2": "Unit # F136",
+		"City": "Prince George",
+		"Province": "BC",
+		"Postal Code": "V2L 3X3",
+		"Phone": "(250) 562-0077"
+	},
+	{
+		"Branch": "2118",
+		"easyhome Store": "",
+		"Address": "4429 Kingsway",
+		"Address2": "Unit # 4",
+		"City": "Burnaby",
+		"Province": "BC",
+		"Postal Code": "V5H 2A1",
+		"Phone": "(604) 436-0143"
+	},
+	{
+		"Branch": "2122",
+		"easyhome Store": "",
+		"Address": "7133 120th St.",
+		"Address2": "",
+		"City": "Delta",
+		"Province": "BC",
+		"Postal Code": "V4E 2A9",
+		"Phone": "(778) 578-3620"
+	},
+	{
+		"Branch": "2124",
+		"easyhome Store": "",
+		"Address": "20395 Lougheed Hwy",
+		"Address2": "Unit 675",
+		"City": "Maple Ridge",
+		"Province": "BC",
+		"Postal Code": "V2X 2P9",
+		"Phone": "(778) 724-1955"
+	},
+	{
+		"Branch": "2125",
+		"easyhome Store": "",
+		"Address": "1971 Lougheed Hwy",
+		"Address2": "Unit 3140",
+		"City": "Port Coquitlam",
+		"Province": "BC",
+		"Postal Code": "V3B 1A6",
+		"Phone": "(778) 730-0561"
+	},
+	{
+		"Branch": "2132",
+		"easyhome Store": "",
+		"Address": "607 Belmont St.",
+		"Address2": "Suite 110",
+		"City": "New Westminster",
+		"Province": "BC",
+		"Postal Code": "V3M 5Z8",
+		"Phone": "(604) 523-5626"
+	},
+	{
+		"Branch": "2135",
+		"easyhome Store": "",
+		"Address": "8920-152nd St.",
+		"Address2": "",
+		"City": "Surrey",
+		"Province": "BC",
+		"Postal Code": "V3R 4E4",
+		"Phone": "(778) 728-0728"
+	},
+	{
+		"Branch": "2140",
+		"easyhome Store": "",
+		"Address": "6339 200th St",
+		"Address2": "Unit 902",
+		"City": "Langley",
+		"Province": "BC",
+		"Postal Code": "V2Y 1A2",
+		"Phone": "(778) 726-2977"
+	},
+	{
+		"Branch": "2145",
+		"easyhome Store": "",
+		"Address": "6532 Hastings St",
+		"Address2": "",
+		"City": "Burnaby",
+		"Province": "BC",
+		"Postal Code": "V5B 1S2",
+		"Phone": "(778) 724-4352"
+	},
+	{
+		"Branch": "2103",
+		"easyhome Store": "",
+		"Address": "45793 Luckakuck Way",
+		"Address2": "Unit # 103B",
+		"City": "Chilliwack",
+		"Province": "BC",
+		"Postal Code": "V2R 5S3",
+		"Phone": "(604) 824-2177"
+	},
+	{
+		"Branch": "2109",
+		"easyhome Store": "",
+		"Address": "1395 Hillside Dr.",
+		"Address2": "Unit 73",
+		"City": "Kamloops",
+		"Province": "BC",
+		"Postal Code": "V2E 2R7",
+		"Phone": "(250) 851-0005"
+	},
+	{
+		"Branch": "2111",
+		"easyhome Store": "",
+		"Address": "2012 Main St.",
+		"Address2": "",
+		"City": "Penticton",
+		"Province": "BC",
+		"Postal Code": "V2A 5H4",
+		"Phone": "(250) 490-2066"
+	},
+	{
+		"Branch": "2116",
+		"easyhome Store": "",
+		"Address": "4400 32nd St",
+		"Address2": "Unit 110",
+		"City": "Vernon",
+		"Province": "BC",
+		"Postal Code": "V1T 9H2",
+		"Phone": "(250) 558-3421"
+	},
+	{
+		"Branch": "2117",
+		"easyhome Store": "",
+		"Address": "1835 Gordon Dr",
+		"Address2": "Unit # 133",
+		"City": "Kelowna",
+		"Province": "BC",
+		"Postal Code": "V1Y 3H4",
+		"Phone": "(250) 762-2675"
+	},
+	{
+		"Branch": "2126",
+		"easyhome Store": "",
+		"Address": "32530 Lougheed Hwy",
+		"Address2": "Unit 218",
+		"City": "Mission",
+		"Province": "BC",
+		"Postal Code": "V2V 1A5",
+		"Phone": "(604) 425-1098"
+	},
+	{
+		"Branch": "2127",
+		"easyhome Store": "",
+		"Address": "535 Victoria Ave. N",
+		"Address2": "Unit 309",
+		"City": "Cranbrook",
+		"Province": "BC",
+		"Postal Code": "V1C 6S3",
+		"Phone": "(778) 550-2095"
+	},
+	{
+		"Branch": "2129",
+		"easyhome Store": "",
+		"Address": "1185 Prosperity Way",
+		"Address2": "Unit 430",
+		"City": "Williams Lake",
+		"Province": "BC",
+		"Postal Code": "V2G 0A6",
+		"Phone": "(778) 799-2000"
+	},
+	{
+		"Branch": "2136",
+		"easyhome Store": "",
+		"Address": "1678 Second Ave.",
+		"Address2": "",
+		"City": "Trail",
+		"Province": "BC",
+		"Postal Code": "V1R 1M5",
+		"Phone": "(250) 364-3102"
+	},
+	{
+		"Branch": "2143",
+		"easyhome Store": "",
+		"Address": "3000 Louie Drive",
+		"Address2": "Unit 106",
+		"City": "Westbank",
+		"Province": "BC",
+		"Postal Code": "V4T 3E2",
+		"Phone": "(236) 361-5983"
+	},
+	{
+		"Branch": "2144",
+		"easyhome Store": "",
+		"Address": "750 Fortune Dr",
+		"Address2": "Unit 14",
+		"City": "Kamloops",
+		"Province": "BC",
+		"Postal Code": "V2B 2L2",
+		"Phone": "(778) 644-0698"
+	},
+	{
+		"Branch": "2501",
+		"easyhome Store": "",
+		"Address": "2500 Hurontario St",
+		"Address2": "Unit #3",
+		"City": "Mississauga",
+		"Province": "ON",
+		"Postal Code": "L5B 1N4",
+		"Phone": "(905) 896-4162"
+	},
+	{
+		"Branch": "2561",
+		"easyhome Store": "",
+		"Address": "140 Great Lakes Drive",
+		"Address2": "Suite 129",
+		"City": "Brampton",
+		"Province": "ON",
+		"Postal Code": "L6R 2K7",
+		"Phone": "(905) 451-9889"
+	},
+	{
+		"Branch": "2565",
+		"easyhome Store": "",
+		"Address": "6975 Meadowvale Town Centre Circle",
+		"Address2": "Unit N2C",
+		"City": "Mississauga",
+		"Province": "ON",
+		"Postal Code": "L5N 2W7",
+		"Phone": "(289) 328-0331"
+	},
+	{
+		"Branch": "2570",
+		"easyhome Store": "",
+		"Address": "295 Queen St E",
+		"Address2": "Unit 37",
+		"City": "Brampton",
+		"Province": "ON",
+		"Postal Code": "L6W 3R1",
+		"Phone": "(289) 323-0951"
+	},
+	{
+		"Branch": "2577",
+		"easyhome Store": "",
+		"Address": "950 Southdown Rd.",
+		"Address2": "Unit B8",
+		"City": "Mississauga",
+		"Province": "ON",
+		"Postal Code": "L5J 2Y4",
+		"Phone": "(289) 328-0994"
+	},
+	{
+		"Branch": "2590",
+		"easyhome Store": "",
+		"Address": "146 Lakeshore Rd W",
+		"Address2": "Unit C",
+		"City": "Oakville",
+		"Province": "ON",
+		"Postal Code": "L6K 1E4",
+		"Phone": "(289) 351-1658"
+	},
+	{
+		"Branch": "2606",
+		"easyhome Store": "3568",
+		"Address": "3100 Dixie Rd.",
+		"Address2": "Unit 1",
+		"City": "Mississauga",
+		"Province": "ON",
+		"Postal Code": "L4Y 2A6",
+		"Phone": "(289) 334-0844"
+	},
+	{
+		"Branch": "2610",
+		"easyhome Store": "",
+		"Address": "499 Main St S",
+		"Address2": "Unit 155A",
+		"City": "Brampton",
+		"Province": "ON",
+		"Postal Code": "L6Y 1N0",
+		"Phone": "(289) 801-0323"
+	},
+	{
+		"Branch": "2621",
+		"easyhome Store": "",
+		"Address": "9980 Airport Rd",
+		"Address2": "Unit 9",
+		"City": "Brampton",
+		"Province": "ON",
+		"Postal Code": "L6S0C5",
+		"Phone": "(289) 801-6079"
+	},
+	{
+		"Branch": "2622",
+		"easyhome Store": "",
+		"Address": "3604 Major MacKenzie Dr W",
+		"Address2": "Unit #T7",
+		"City": "Maple",
+		"Province": "ON",
+		"Postal Code": "L6A 1S1",
+		"Phone": "(289) 217-4924"
+	},
+	{
+		"Branch": "2212",
+		"easyhome Store": "",
+		"Address": "5027 44th St",
+		"Address2": "Unit 105G",
+		"City": "Lloydminster",
+		"Province": "AB",
+		"Postal Code": "T9V 0A6",
+		"Phone": "(780) 874-9125"
+	},
+	{
+		"Branch": "2301",
+		"easyhome Store": "",
+		"Address": "2410 22nd Street W",
+		"Address2": "Unit 4B",
+		"City": "Saskatoon",
+		"Province": "SK",
+		"Postal Code": "S7M 5S6",
+		"Phone": "(306) 373-2900"
+	},
+	{
+		"Branch": "2302",
+		"easyhome Store": "",
+		"Address": "801 15th St E",
+		"Address2": "Unit 935",
+		"City": "Prince Albert",
+		"Province": "SK",
+		"Postal Code": "S6V 0C7",
+		"Phone": "(306) 764-3114"
+	},
+	{
+		"Branch": "2303",
+		"easyhome Store": "",
+		"Address": "603 Carlton Trail",
+		"Address2": "Unit 2",
+		"City": "North Battleford",
+		"Province": "SK",
+		"Postal Code": "S9A 4A9",
+		"Phone": "(306) 445-8550"
+	},
+	{
+		"Branch": "2304",
+		"easyhome Store": "",
+		"Address": "1438 Broad St.",
+		"Address2": "",
+		"City": "Regina",
+		"Province": "SK",
+		"Postal Code": "S4R 1Y9",
+		"Phone": "(306) 522-5081"
+	},
+	{
+		"Branch": "2306",
+		"easyhome Store": "",
+		"Address": "150 Broadway St E.",
+		"Address2": "Unit 5",
+		"City": "Yorkton",
+		"Province": "SK",
+		"Postal Code": "S3N 3K4",
+		"Phone": "(306) 521-0422"
+	},
+	{
+		"Branch": "2307",
+		"easyhome Store": "",
+		"Address": "1251 Main St N",
+		"Address2": "Unit 6-2",
+		"City": "Moose Jaw",
+		"Province": "SK",
+		"Postal Code": "S6H 6M3",
+		"Phone": "(306) 684-0029"
+	},
+	{
+		"Branch": "2308",
+		"easyhome Store": "",
+		"Address": "4400 Rochdale Blvd.",
+		"Address2": "Unit A6",
+		"City": "Regina",
+		"Province": "SK",
+		"Postal Code": "S4X 4N9",
+		"Phone": "(306) 992-9026"
+	},
+	{
+		"Branch": "2309",
+		"easyhome Store": "",
+		"Address": "622 Circle Dr E.",
+		"Address2": "Unit 30",
+		"City": "Saskatoon",
+		"Province": "SK",
+		"Postal Code": "S7K 0T9",
+		"Phone": "(306) 500-5544"
+	},
+	{
+		"Branch": "2310",
+		"easyhome Store": "",
+		"Address": "2921 8 St E",
+		"Address2": "Unit C",
+		"City": "Saskatoon",
+		"Province": "SK",
+		"Postal Code": "S7H 0V4",
+		"Phone": "(639) 638-4423"
+	},
+	{
+		"Branch": "2203",
+		"easyhome Store": "",
+		"Address": "105 Carry Dr SE",
+		"Address2": "Unit 113",
+		"City": "Medicine Hat",
+		"Province": "AB",
+		"Postal Code": "T1B 3M6",
+		"Phone": "(403) 548-6595"
+	},
+	{
+		"Branch": "2205",
+		"easyhome Store": "",
+		"Address": "3829 Mayor Magrath Dr. S",
+		"Address2": "Unit # 30",
+		"City": "Lethbridge",
+		"Province": "AB",
+		"Postal Code": "T1K 8E2",
+		"Phone": "(403) 331-6425"
+	},
+	{
+		"Branch": "2207",
+		"easyhome Store": "",
+		"Address": "731 Alberta St W",
+		"Address2": "Unit 3",
+		"City": " P.O.Box 1616",
+		"Province": "Brooks",
+		"Postal Code": "AB",
+		"Phone": "T1R1C3"
+	},
+	{
+		"Branch": "2208",
+		"easyhome Store": "",
+		"Address": "499 Timberlands Dr",
+		"Address2": "Unit# 10103",
+		"City": "Red Deer",
+		"Province": "AB",
+		"Postal Code": "T4P 0Z3",
+		"Phone": "(403) 346-7107"
+	},
+	{
+		"Branch": "2215",
+		"easyhome Store": "",
+		"Address": "3115 26 Ave N",
+		"Address2": "Unit 30",
+		"City": "Lethbridge",
+		"Province": "AB",
+		"Postal Code": "T1H 5P4",
+		"Phone": "(403) 388-5695"
+	},
+	{
+		"Branch": "2218",
+		"easyhome Store": "",
+		"Address": "920 36th St N.E",
+		"Address2": "Unit # 124",
+		"City": "Calgary",
+		"Province": "AB",
+		"Postal Code": "T2A 6L8",
+		"Phone": "(403) 273-1435"
+	},
+	{
+		"Branch": "2219",
+		"easyhome Store": "",
+		"Address": "9737 Macleod Trail SW",
+		"Address2": "Unit 450",
+		"City": "Calgary",
+		"Province": "AB",
+		"Postal Code": "T2J 0P6",
+		"Phone": "(587) 794-3950"
+	},
+	{
+		"Branch": "2223",
+		"easyhome Store": "",
+		"Address": "6413 Bowness Rd. NW",
+		"Address2": "",
+		"City": "Calgary",
+		"Province": "AB",
+		"Postal Code": "T3B 0E6",
+		"Phone": "(587) 779-6235"
+	},
+	{
+		"Branch": "2224",
+		"easyhome Store": "",
+		"Address": "2404 Centre St. NE",
+		"Address2": "Unit 3",
+		"City": "Calgary",
+		"Province": "AB",
+		"Postal Code": "T2E 2T9",
+		"Phone": "(587) 779-6237"
+	},
+	{
+		"Branch": "2229",
+		"easyhome Store": "",
+		"Address": "18 Southridge Dr.",
+		"Address2": "Unit 6",
+		"City": "Okotoks",
+		"Province": "AB",
+		"Postal Code": "T1S 1N1",
+		"Phone": "(403) 917-0522"
+	},
+	{
+		"Branch": "2233",
+		"easyhome Store": "",
+		"Address": "185 East Hills Blvd S",
+		"Address2": "Unit 10",
+		"City": "Calgary",
+		"Province": "AB",
+		"Postal Code": "T2A 6Z8",
+		"Phone": "(587) 355-9360"
+	},
+	{
+		"Branch": "2234",
+		"easyhome Store": "",
+		"Address": "2765 Main Street SW",
+		"Address2": "Unit 120",
+		"City": "Airdie",
+		"Province": "AB",
+		"Postal Code": "T4B 3G2",
+		"Phone": "(587) 600-2570"
+	},
+	{
+		"Branch": "2533",
+		"easyhome Store": "",
+		"Address": "510 Bayfield St",
+		"Address2": "",
+		"City": "Barrie",
+		"Province": "ON",
+		"Postal Code": "L4M 5A2",
+		"Phone": "(705) 792-1791"
+	},
+	{
+		"Branch": "2534",
+		"easyhome Store": "",
+		"Address": "1979 16th St E",
+		"Address2": "Unit E2",
+		"City": "Owen Sound",
+		"Province": "ON",
+		"Postal Code": "N4K 5N3",
+		"Phone": "(519) 372-4700"
+	},
+	{
+		"Branch": "2549",
+		"easyhome Store": "",
+		"Address": "30 Diana Drive",
+		"Address2": "Bldg. 4",
+		"City": " Unit #4",
+		"Province": "Orillia",
+		"Postal Code": "ON",
+		"Phone": "L3V 6H2"
+	},
+	{
+		"Branch": "2560",
+		"easyhome Store": "",
+		"Address": "559 Essa Rd",
+		"Address2": "Unit # D1",
+		"City": "Barrie",
+		"Province": "ON",
+		"Postal Code": "L4N 6A9",
+		"Phone": "(705) 719-7868"
+	},
+	{
+		"Branch": "2563",
+		"easyhome Store": "",
+		"Address": "1111 Davis Dr",
+		"Address2": "Unit 29A",
+		"City": "Newmarket",
+		"Province": "ON",
+		"Postal Code": "L3Y 9E5",
+		"Phone": "(905) 898-8914"
+	},
+	{
+		"Branch": "2567",
+		"easyhome Store": "",
+		"Address": "443 The Queensway S",
+		"Address2": "Unit # 6",
+		"City": "Keswick",
+		"Province": "ON",
+		"Postal Code": "L4P 3J4",
+		"Phone": "(905) 476-6446"
+	},
+	{
+		"Branch": "2573",
+		"easyhome Store": "",
+		"Address": "487 Holland St.",
+		"Address2": "Unit 6",
+		"City": "Bradford",
+		"Province": "ON",
+		"Postal Code": "L3Z 0C1",
+		"Phone": "(289) 319-1074"
+	},
+	{
+		"Branch": "2576",
+		"easyhome Store": "",
+		"Address": "9319 County Rd. 93",
+		"Address2": "Unit 2",
+		"City": "Midland",
+		"Province": "ON",
+		"Postal Code": "L4R 4K4",
+		"Phone": "(705) 417-0346"
+	},
+	{
+		"Branch": "2581",
+		"easyhome Store": "",
+		"Address": "7 Anne Street S",
+		"Address2": "Andun Plaza",
+		"City": "Barrie",
+		"Province": "ON",
+		"Postal Code": "L4N 2C4",
+		"Phone": "(705) 417-2886"
+	},
+	{
+		"Branch": "2609",
+		"easyhome Store": "",
+		"Address": "17725 Yonge Street N",
+		"Address2": "Unit #103",
+		"City": "Newmarket",
+		"Province": "ON",
+		"Postal Code": "L3Y 7C1",
+		"Phone": "(289) 319-1050"
+	},
+	{
+		"Branch": "2508",
+		"easyhome Store": "",
+		"Address": "20 Huron St",
+		"Address2": "Unit 2",
+		"City": "Woodstock",
+		"Province": "ON",
+		"Postal Code": "N4S 6Z2",
+		"Phone": "(519) 421-3630"
+	},
+	{
+		"Branch": "2510",
+		"easyhome Store": "",
+		"Address": "1070 Wellington Rd S",
+		"Address2": "Unit# 2",
+		"City": "London",
+		"Province": "ON",
+		"Postal Code": "N6E 3V8",
+		"Phone": "(519) 455-7475"
+	},
+	{
+		"Branch": "2525",
+		"easyhome Store": "",
+		"Address": "925 Ontario St",
+		"Address2": "Unit # 6",
+		"City": "Stratford",
+		"Province": "ON",
+		"Postal Code": "N5A 6W5",
+		"Phone": "(519) 273-5205"
+	},
+	{
+		"Branch": "2540",
+		"easyhome Store": "3592",
+		"Address": "164 Broadway St.",
+		"Address2": "Unit # 13",
+		"City": "Tillsonburg",
+		"Province": "ON",
+		"Postal Code": "N4G 5A8",
+		"Phone": "(519) 842-4040"
+	},
+	{
+		"Branch": "2553",
+		"easyhome Store": "",
+		"Address": "185 King George Rd",
+		"Address2": "Unit # B6A",
+		"City": "Brantford",
+		"Province": "ON",
+		"Postal Code": "N3R 7R9",
+		"Phone": "(519) 752-5666"
+	},
+	{
+		"Branch": "2558",
+		"easyhome Store": "3661",
+		"Address": "1742 Dundas St E",
+		"Address2": "",
+		"City": "London",
+		"Province": "ON",
+		"Postal Code": "N5W 3E2",
+		"Phone": "(519) 649-6660"
+	},
+	{
+		"Branch": "2574",
+		"easyhome Store": "",
+		"Address": "50 Market St S",
+		"Address2": "Unit 0130",
+		"City": "Brantford",
+		"Province": "ON",
+		"Postal Code": "N3S 2E3",
+		"Phone": "(226) 400-5856"
+	},
+	{
+		"Branch": "2597",
+		"easyhome Store": "",
+		"Address": "15 Arthur Ave.",
+		"Address2": "Ste. D",
+		"City": "St. Thomas",
+		"Province": "ON",
+		"Postal Code": "N5P 3L3",
+		"Phone": "(226) 213-5288"
+	},
+	{
+		"Branch": "2615",
+		"easyhome Store": "",
+		"Address": "1030 Adelaide St N",
+		"Address2": "Unit 4",
+		"City": "London",
+		"Province": "ON",
+		"Postal Code": "N5Y 2M9",
+		"Phone": "(226) 777-7170"
+	},
+	{
+		"Branch": "2401",
+		"easyhome Store": "",
+		"Address": "1300 18th St.",
+		"Address2": "Unit 60",
+		"City": "Brandon",
+		"Province": "MB",
+		"Postal Code": "R7A 6X7",
+		"Phone": "(204) 725-2855"
+	},
+	{
+		"Branch": "2402",
+		"easyhome Store": "",
+		"Address": "2230 McPhillips St.",
+		"Address2": "Unit 8",
+		"City": "Winnipeg",
+		"Province": "MB",
+		"Postal Code": "R2V 3C8",
+		"Phone": "(204) 779-6896"
+	},
+	{
+		"Branch": "2403",
+		"easyhome Store": "",
+		"Address": "912 Portage Ave",
+		"Address2": "Unit #100",
+		"City": "Winnipeg",
+		"Province": "MB",
+		"Postal Code": "R3P 0P5",
+		"Phone": "(204) 632-6040"
+	},
+	{
+		"Branch": "2404",
+		"easyhome Store": "",
+		"Address": "39 Marion St",
+		"Address2": "",
+		"City": "Winnipeg",
+		"Province": "MB",
+		"Postal Code": "R2H 0S8",
+		"Phone": "(204) 231-0955"
+	},
+	{
+		"Branch": "2406",
+		"easyhome Store": "",
+		"Address": "2579 Main St",
+		"Address2": "Unit 3",
+		"City": "Winnipeg",
+		"Province": "MB",
+		"Postal Code": "R2V4W3",
+		"Phone": "(204) 515-6435"
+	},
+	{
+		"Branch": "2407",
+		"easyhome Store": "",
+		"Address": "321E Main St.",
+		"Address2": "",
+		"City": "Selkirk",
+		"Province": "MB",
+		"Postal Code": "R1A 1T2",
+		"Phone": "(204) 817-8623"
+	},
+	{
+		"Branch": "2408",
+		"easyhome Store": "",
+		"Address": "1594 St. Mary's Rd.",
+		"Address2": "",
+		"City": "Winnipeg",
+		"Province": "MB",
+		"Postal Code": "R2M 3W4",
+		"Phone": "(204) 515-3791"
+	},
+	{
+		"Branch": "2409",
+		"easyhome Store": "",
+		"Address": "1565 Regent Ave W",
+		"Address2": "Unit 1A",
+		"City": "Winnipeg",
+		"Province": "MB",
+		"Postal Code": "R2C 3B3",
+		"Phone": "(204) 515-4011"
+	},
+	{
+		"Branch": "2412",
+		"easyhome Store": "3410",
+		"Address": "2352 Sissons Dr.",
+		"Address2": "Unit 5",
+		"City": "Portage La Prairie",
+		"Province": "MB",
+		"Postal Code": "R1N 0G5",
+		"Phone": "(204) 814-3260"
+	},
+	{
+		"Branch": "2526",
+		"easyhome Store": "",
+		"Address": "3227 Eglinton Ave E",
+		"Address2": "Unit # 3201",
+		"City": "Scarborough",
+		"Province": "ON",
+		"Postal Code": "M1J 3M5",
+		"Phone": "(416) 266-0178"
+	},
+	{
+		"Branch": "2530",
+		"easyhome Store": "",
+		"Address": "2013 Lawrence Ave W.",
+		"Address2": "Unit # 3",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M9N 1H4",
+		"Phone": "(416) 614-9056"
+	},
+	{
+		"Branch": "2543",
+		"easyhome Store": "",
+		"Address": "652 Yonge St",
+		"Address2": "",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M4Y 2A6",
+		"Phone": "(416) 929-3279"
+	},
+	{
+		"Branch": "2547",
+		"easyhome Store": "",
+		"Address": "830 Warden Ave.",
+		"Address2": "Unit#E3A",
+		"City": "Scarborough",
+		"Province": "ON",
+		"Postal Code": "M1L 4W1",
+		"Phone": "(416) 751-8100"
+	},
+	{
+		"Branch": "2548",
+		"easyhome Store": "3604",
+		"Address": "2151 St. Clair Ave W",
+		"Address2": "Unit#102",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M6N 1K5",
+		"Phone": "(416) 766-4900"
+	},
+	{
+		"Branch": "2550",
+		"easyhome Store": "",
+		"Address": "479 Danforth Ave",
+		"Address2": "",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M4K 1P1",
+		"Phone": "(416) 696-7200"
+	},
+	{
+		"Branch": "2571",
+		"easyhome Store": "",
+		"Address": "4543 Kingston Rd",
+		"Address2": "Unit 2",
+		"City": "Scarborough",
+		"Province": "ON",
+		"Postal Code": "M1E 2P1",
+		"Phone": "(416) 613-0038"
+	},
+	{
+		"Branch": "2575",
+		"easyhome Store": "",
+		"Address": "700 Lawrence Ave W",
+		"Address2": "Unit 128",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M6A 3B4",
+		"Phone": "(416) 613-0063"
+	},
+	{
+		"Branch": "2584",
+		"easyhome Store": "",
+		"Address": "739 The Queensway",
+		"Address2": "",
+		"City": "Etobicoke",
+		"Province": "ON",
+		"Postal Code": "M8Z 1J3",
+		"Phone": "(416) 613-0071"
+	},
+	{
+		"Branch": "2599",
+		"easyhome Store": "",
+		"Address": "3026 Danforth Ave.",
+		"Address2": "",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M4C 1N2",
+		"Phone": "(416) 613-0073"
+	},
+	{
+		"Branch": "2603",
+		"easyhome Store": "",
+		"Address": "245 Dixon Rd.",
+		"Address2": "Unit 103",
+		"City": "Etobicoke",
+		"Province": "ON",
+		"Postal Code": "M9P 2M4",
+		"Phone": "(647) 794-2224"
+	},
+	{
+		"Branch": "2605",
+		"easyhome Store": "",
+		"Address": "1020 Islington Ave",
+		"Address2": "Unit 4",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M8Z 6A4",
+		"Phone": "(647) 794-4270"
+	},
+	{
+		"Branch": "2612",
+		"easyhome Store": "",
+		"Address": "2111 Yonge St",
+		"Address2": "",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M4S 2A4",
+		"Phone": "(647) 796-0078"
+	},
+	{
+		"Branch": "2614",
+		"easyhome Store": "",
+		"Address": "2181 Steeles Ave W",
+		"Address2": "UNIT B15",
+		"City": "North York",
+		"Province": "ON",
+		"Postal Code": "M3J 3N2",
+		"Phone": "(647) 796-0076"
+	},
+	{
+		"Branch": "2619",
+		"easyhome Store": "",
+		"Address": "1210 Castlemore Ave",
+		"Address2": "Unit 3A",
+		"City": "Markham",
+		"Province": "ON",
+		"Postal Code": "L6E 0H7",
+		"Phone": "(289) 800-2065"
+	},
+	{
+		"Branch": "2623",
+		"easyhome Store": "",
+		"Address": "523 Bloor Street West",
+		"Address2": "",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M5S 1Y4",
+		"Phone": "(647) 954-1675"
+	},
+	{
+		"Branch": "2624",
+		"easyhome Store": "",
+		"Address": "6210 Finch Ave W",
+		"Address2": "104",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M9V 0A1",
+		"Phone": "(647) 796-0155"
+	},
+	{
+		"Branch": "2529",
+		"easyhome Store": "",
+		"Address": "1840 Lansdowne St W",
+		"Address2": "Unit 14B",
+		"City": "Peterborough",
+		"Province": "ON",
+		"Postal Code": "K9K 2M9",
+		"Phone": "(705) 876-8108"
+	},
+	{
+		"Branch": "2542",
+		"easyhome Store": "",
+		"Address": "199 Wentworth St W",
+		"Address2": "Unit # 19/20",
+		"City": "Oshawa",
+		"Province": "ON",
+		"Postal Code": "L1J 6P4",
+		"Phone": "(905) 728-1983"
+	},
+	{
+		"Branch": "2545",
+		"easyhome Store": "3526",
+		"Address": "1000 Elgin St. W",
+		"Address2": "",
+		"City": "Cobourg",
+		"Province": "ON",
+		"Postal Code": "K9A 3S4",
+		"Phone": "(905) 377-1332"
+	},
+	{
+		"Branch": "2555",
+		"easyhome Store": "",
+		"Address": "363 Kent St W",
+		"Address2": "",
+		"City": "Lindsay",
+		"Province": "ON",
+		"Postal Code": "K9V 2Z7",
+		"Phone": "(705) 324-3632"
+	},
+	{
+		"Branch": "2568",
+		"easyhome Store": "",
+		"Address": "1051 Simcoe St N",
+		"Address2": "Unit # 4A",
+		"City": "Oshawa",
+		"Province": "ON",
+		"Postal Code": "L1G 4W3",
+		"Phone": "(289) 222-3279"
+	},
+	{
+		"Branch": "2580",
+		"easyhome Store": "",
+		"Address": "96 Harwood Ave. S",
+		"Address2": "",
+		"City": "Ajax",
+		"Province": "ON",
+		"Postal Code": "L1S 2H6",
+		"Phone": "(289) 315-1172"
+	},
+	{
+		"Branch": "2593",
+		"easyhome Store": "",
+		"Address": "1343 King St. E",
+		"Address2": "",
+		"City": "Oshawa",
+		"Province": "ON",
+		"Postal Code": "L1H 1J3",
+		"Phone": "(289) 316-3663"
+	},
+	{
+		"Branch": "2596",
+		"easyhome Store": "",
+		"Address": "14500 Simcoe St.",
+		"Address2": "",
+		"City": "Port Perry",
+		"Province": "ON",
+		"Postal Code": "L9L 1V4",
+		"Phone": "(289) 316-3665"
+	},
+	{
+		"Branch": "2617",
+		"easyhome Store": "3547",
+		"Address": "125 George St N",
+		"Address2": "",
+		"City": "Peterborough",
+		"Province": "ON",
+		"Postal Code": "K9J3G3",
+		"Phone": "(249) 494-5666"
+	},
+	{
+		"Branch": "2618",
+		"easyhome Store": "",
+		"Address": "3050 Garden St",
+		"Address2": "Unit 117",
+		"City": "Whitby",
+		"Province": "ON",
+		"Postal Code": "L1R 2G8",
+		"Phone": "(289) 278-1453"
+	},
+	{
+		"Branch": "2509",
+		"easyhome Store": "",
+		"Address": "1 Pine Dr",
+		"Address2": "Unit C6",
+		"City": "Parry Sound",
+		"Province": "ON",
+		"Postal Code": "P2A 3C3",
+		"Phone": "(705) 746-6969"
+	},
+	{
+		"Branch": "2515",
+		"easyhome Store": "",
+		"Address": "710 Second Line East",
+		"Address2": "Unit 104",
+		"City": "Sault Ste. Marie",
+		"Province": "ON",
+		"Postal Code": "P6B 4K3",
+		"Phone": "(705) 759-9213"
+	},
+	{
+		"Branch": "2518",
+		"easyhome Store": "",
+		"Address": "2125 Algonquin Ave",
+		"Address2": "",
+		"City": "North Bay",
+		"Province": "ON",
+		"Postal Code": "P1B4Z3",
+		"Phone": "(705) 472-3382"
+	},
+	{
+		"Branch": "2520",
+		"easyhome Store": "",
+		"Address": "1540 D Lasalle Blvd",
+		"Address2": "",
+		"City": "Sudbury",
+		"Province": "ON",
+		"Postal Code": "P3A 1Z7",
+		"Phone": "(705) 670-2638"
+	},
+	{
+		"Branch": "2522",
+		"easyhome Store": "3559",
+		"Address": "1500 Riverside Dr",
+		"Address2": "Unit 51",
+		"City": "Timmins",
+		"Province": "ON",
+		"Postal Code": "P4R 1A1",
+		"Phone": "(705) 268-8088"
+	},
+	{
+		"Branch": "2524",
+		"easyhome Store": "3517",
+		"Address": "369 Main St.",
+		"Address2": "Unit # C8",
+		"City": "Thunder Bay",
+		"Province": "ON",
+		"Postal Code": "P7B 5L6",
+		"Phone": "(807) 623-7256"
+	},
+	{
+		"Branch": "2586",
+		"easyhome Store": "",
+		"Address": "1 King William St.",
+		"Address2": "Unit 2",
+		"City": "Huntsville",
+		"Province": "ON",
+		"Postal Code": "P1H 1G7",
+		"Phone": "(705) 224-0020"
+	},
+	{
+		"Branch": "2598",
+		"easyhome Store": "",
+		"Address": "1984 Regent St.",
+		"Address2": "#103",
+		"City": "Sudbury",
+		"Province": "ON",
+		"Postal Code": "P3E 5S1",
+		"Phone": "(705) 419-1522"
+	},
+	{
+		"Branch": "2502",
+		"easyhome Store": "",
+		"Address": "183 Silvercreek Pkwy N",
+		"Address2": "Unit # 118F",
+		"City": "Guelph",
+		"Province": "ON",
+		"Postal Code": "N1H 3T2",
+		"Phone": "(519) 763-7639"
+	},
+	{
+		"Branch": "2527",
+		"easyhome Store": "3505",
+		"Address": "1 Hespeler Rd",
+		"Address2": "Unit # B2",
+		"City": "Cambridge",
+		"Province": "ON",
+		"Postal Code": "N1R 8L4",
+		"Phone": "(519) 624-8943"
+	},
+	{
+		"Branch": "2532",
+		"easyhome Store": "",
+		"Address": "95 First St.",
+		"Address2": "Unit #1",
+		"City": "Orangeville",
+		"Province": "ON",
+		"Postal Code": "L9W 2E8",
+		"Phone": "(226) 314-1630"
+	},
+	{
+		"Branch": "2536",
+		"easyhome Store": "",
+		"Address": "206 King Street East",
+		"Address2": "",
+		"City": "Kitchener",
+		"Province": "ON",
+		"Postal Code": "N2G 2L1",
+		"Phone": "(519) 568-8181"
+	},
+	{
+		"Branch": "2544",
+		"easyhome Store": "3670",
+		"Address": "1400 Weber St. E",
+		"Address2": "Unit A1",
+		"City": "Kitchener",
+		"Province": "ON",
+		"Postal Code": "N2A 3Z8",
+		"Phone": "(519) 893-4241"
+	},
+	{
+		"Branch": "2551",
+		"easyhome Store": "",
+		"Address": "480 Hespeler Rd",
+		"Address2": "Units 13-14",
+		"City": "Cambridge",
+		"Province": "ON",
+		"Postal Code": "N1R 7R9",
+		"Phone": "(519) 620-4400"
+	},
+	{
+		"Branch": "2572",
+		"easyhome Store": "",
+		"Address": "700 Strasburg Rd.",
+		"Address2": "",
+		"City": "Kitchener",
+		"Province": "ON",
+		"Postal Code": "N2E 2Y3",
+		"Phone": "(226) 317-0668"
+	},
+	{
+		"Branch": "2620",
+		"easyhome Store": "",
+		"Address": "22 Clair Rd W",
+		"Address2": "Building C",
+		"City": " Unit 1",
+		"Province": "Guelph",
+		"Postal Code": "ON",
+		"Phone": "N1L 0A8"
+	},
+	{
+		"Branch": "2507",
+		"easyhome Store": "",
+		"Address": "1375 Huron Church Rd",
+		"Address2": "Unit B",
+		"City": "Windsor",
+		"Province": "ON",
+		"Postal Code": "N9C 2B4",
+		"Phone": "(519) 977-7676"
+	},
+	{
+		"Branch": "2512",
+		"easyhome Store": "",
+		"Address": "60 McNaughton Ave",
+		"Address2": "",
+		"City": "Wallaceburg",
+		"Province": "ON",
+		"Postal Code": "N8A 1R9",
+		"Phone": "(519) 627-9520"
+	},
+	{
+		"Branch": "2513",
+		"easyhome Store": "3516",
+		"Address": "7201 Tecumseh Rd E",
+		"Address2": "Unit # 5",
+		"City": "Windsor",
+		"Province": "ON",
+		"Postal Code": "N8T 3K4",
+		"Phone": "(519) 944-1834"
+	},
+	{
+		"Branch": "2514",
+		"easyhome Store": "",
+		"Address": "889 Exmouth St.",
+		"Address2": "Unit # 13",
+		"City": "Sarnia",
+		"Province": "ON",
+		"Postal Code": "N7T 5R3",
+		"Phone": "(519) 336-0598"
+	},
+	{
+		"Branch": "2528",
+		"easyhome Store": "",
+		"Address": "275 Erie St S",
+		"Address2": "",
+		"City": "Leamington",
+		"Province": "ON",
+		"Postal Code": "N8H 3C4",
+		"Phone": "(519) 326-0693"
+	},
+	{
+		"Branch": "2556",
+		"easyhome Store": "",
+		"Address": "448 St. Clair St",
+		"Address2": "Unit # 5",
+		"City": "Chatham",
+		"Province": "ON",
+		"Postal Code": "N7L 3K5",
+		"Phone": "(519) 352-5335"
+	},
+	{
+		"Branch": "2559",
+		"easyhome Store": "",
+		"Address": "2430 Dougall Rd",
+		"Address2": "Unit 135",
+		"City": "Windsor",
+		"Province": "ON",
+		"Postal Code": "N8X 1T3",
+		"Phone": "(519) 977-9559"
+	},
+	{
+		"Branch": "2608",
+		"easyhome Store": "",
+		"Address": "650 Division Rd",
+		"Address2": "Unit 8A",
+		"City": "Windsor",
+		"Province": "ON",
+		"Postal Code": "N8X 0A8",
+		"Phone": "(226) 216-0590"
+	},
+	{
+		"Branch": "2504",
+		"easyhome Store": "",
+		"Address": "7190 Morrison St",
+		"Address2": "",
+		"City": "Niagara Falls",
+		"Province": "ON",
+		"Postal Code": "L2E 7K5",
+		"Phone": "(905) 371-3911"
+	},
+	{
+		"Branch": "2505",
+		"easyhome Store": "",
+		"Address": "94 Hwy 8",
+		"Address2": "Unit F3",
+		"City": "Stoney Creek",
+		"Province": "ON",
+		"Postal Code": "L8G 4H3",
+		"Phone": "(905) 662-9371"
+	},
+	{
+		"Branch": "2546",
+		"easyhome Store": "",
+		"Address": "1299 Barton St. E",
+		"Address2": "Unit K6",
+		"City": "Hamilton",
+		"Province": "ON",
+		"Postal Code": "L8H 2V4",
+		"Phone": "(289) 246-9777"
+	},
+	{
+		"Branch": "2552",
+		"easyhome Store": "",
+		"Address": "891 Upper James St",
+		"Address2": "Unit #105",
+		"City": "Hamilton",
+		"Province": "ON",
+		"Postal Code": "L9C 7N1",
+		"Phone": "(905) 318-6710"
+	},
+	{
+		"Branch": "2579",
+		"easyhome Store": "",
+		"Address": "525 Welland Ave. S",
+		"Address2": "",
+		"City": "St. Catharines",
+		"Province": "ON",
+		"Postal Code": "L2M 6P3",
+		"Phone": "(289) 974-0315"
+	},
+	{
+		"Branch": "2585",
+		"easyhome Store": "",
+		"Address": "224 Garrison Rd.",
+		"Address2": "Unit 8",
+		"City": "Fort Erie",
+		"Province": "ON",
+		"Postal Code": "L2A 1M7",
+		"Phone": "(289) 434-5284"
+	},
+	{
+		"Branch": "2601",
+		"easyhome Store": "",
+		"Address": "B7-572 Niagara St.",
+		"Address2": "",
+		"City": "Welland",
+		"Province": "ON",
+		"Postal Code": "L3C 6T8",
+		"Phone": "(289) 434-5281"
+	},
+	{
+		"Branch": "2604",
+		"easyhome Store": "",
+		"Address": "50 Dundurn St. S",
+		"Address2": "Unit 9",
+		"City": "Hamilton",
+		"Province": "ON",
+		"Postal Code": "L8P 4W3",
+		"Phone": "(289) 919-0386"
+	},
+	{
+		"Branch": "2611",
+		"easyhome Store": "",
+		"Address": "3505 Upper Middle Rd",
+		"Address2": "Unit D6",
+		"City": "Burlington",
+		"Province": "ON",
+		"Postal Code": "L7M 4C6",
+		"Phone": "(289) 812-3469"
+	},
+	{
+		"Branch": "2902",
+		"easyhome Store": "3917",
+		"Address": "80 McAllister Drive",
+		"Address2": "Unit #3",
+		"City": "Saint John",
+		"Province": "NB",
+		"Postal Code": "E2J 2S5",
+		"Phone": "(506) 657-3328"
+	},
+	{
+		"Branch": "2907",
+		"easyhome Store": "",
+		"Address": "102 Main Street",
+		"Address2": "Unit #16A",
+		"City": "Fredericton",
+		"Province": "NB",
+		"Postal Code": "E3A 9N6",
+		"Phone": "(506) 449-5159"
+	},
+	{
+		"Branch": "2919",
+		"easyhome Store": "",
+		"Address": "2441 King George Hwy",
+		"Address2": "Unit 48A",
+		"City": "Miramichi",
+		"Province": "NB",
+		"Postal Code": "E1V 6W2",
+		"Phone": "(506) 778-8801"
+	},
+	{
+		"Branch": "2926",
+		"easyhome Store": "",
+		"Address": "87 Lansdowne Ave",
+		"Address2": "",
+		"City": "Saint John",
+		"Province": "NB",
+		"Postal Code": "E2K 3A1",
+		"Phone": "(506) 663-0026"
+	},
+	{
+		"Branch": "2941",
+		"easyhome Store": "",
+		"Address": "140 Main St",
+		"Address2": "Unit # 8",
+		"City": "Sussex",
+		"Province": "NB",
+		"Postal Code": "E4E 3E6",
+		"Phone": "(506) 433-3428"
+	},
+	{
+		"Branch": "2942",
+		"easyhome Store": "3912",
+		"Address": "5 Trinity Ave",
+		"Address2": "Unit #4",
+		"City": "Fredericton",
+		"Province": "NB",
+		"Postal Code": "E3C 0B7",
+		"Phone": "(506) 472-9011"
+	},
+	{
+		"Branch": "2943",
+		"easyhome Store": "",
+		"Address": "939 St. Peter Ave",
+		"Address2": "Unit # 4",
+		"City": "Bathurst",
+		"Province": "NB",
+		"Postal Code": "E2A 2Z3",
+		"Phone": "(506) 548-3355"
+	},
+	{
+		"Branch": "2944",
+		"easyhome Store": "",
+		"Address": "418 Connell Rd",
+		"Address2": "Unit # 4",
+		"City": "Woodstock",
+		"Province": "NB",
+		"Postal Code": "E7M 5R5",
+		"Phone": "(506) 325-1848"
+	},
+	{
+		"Branch": "2950",
+		"easyhome Store": "",
+		"Address": "640 Manawagonish Rd.",
+		"Address2": "",
+		"City": "Saint John",
+		"Province": "NB",
+		"Postal Code": "E2M 3W5",
+		"Phone": "(506) 799-1427"
+	},
+	{
+		"Branch": "2952",
+		"easyhome Store": "",
+		"Address": "462 Madawaska Rd",
+		"Address2": "Unit 4",
+		"City": "Grand Falls",
+		"Province": "NB",
+		"Postal Code": "E3Y 1A3",
+		"Phone": "(506) 481-0360"
+	},
+	{
+		"Branch": "2901",
+		"easyhome Store": "",
+		"Address": "1909 Mountain Rd. N",
+		"Address2": "Unit 9",
+		"City": "Moncton",
+		"Province": "NB",
+		"Postal Code": "E1G 1A8",
+		"Phone": "(506) 801-9817"
+	},
+	{
+		"Branch": "2903",
+		"easyhome Store": "",
+		"Address": "37 Lavinia St.",
+		"Address2": "Unit 0160",
+		"City": "New Glasgow",
+		"Province": "NS",
+		"Postal Code": "B2H 1N5",
+		"Phone": "(902) 752-2277"
+	},
+	{
+		"Branch": "2906",
+		"easyhome Store": "",
+		"Address": "258 Prince St",
+		"Address2": "Unit A",
+		"City": "Sydney",
+		"Province": "NS",
+		"Postal Code": "B1P 5K6",
+		"Phone": "(902) 562-8075"
+	},
+	{
+		"Branch": "2909",
+		"easyhome Store": "",
+		"Address": "47 Paint St",
+		"Address2": "Unit 23",
+		"City": "Port Hawkesbury",
+		"Province": "NS",
+		"Postal Code": "B9A 3J9",
+		"Phone": "(902) 625-0850"
+	},
+	{
+		"Branch": "2914",
+		"easyhome Store": "",
+		"Address": "153 Reserve St.",
+		"Address2": "Unit 103",
+		"City": "Glace Bay",
+		"Province": "NS",
+		"Postal Code": "B1A 4W3",
+		"Phone": "(902) 842-9039"
+	},
+	{
+		"Branch": "2915",
+		"easyhome Store": "",
+		"Address": "245 Robie St",
+		"Address2": "unit 103A",
+		"City": "Truro",
+		"Province": "NS",
+		"Postal Code": "B2N 5N6",
+		"Phone": "(902) 896-8930"
+	},
+	{
+		"Branch": "2917",
+		"easyhome Store": "3925",
+		"Address": "142 South Albion",
+		"Address2": "Unit #0185",
+		"City": "Amherst",
+		"Province": "NS",
+		"Postal Code": "B4H 4H4",
+		"Phone": "(902) 667-7959"
+	},
+	{
+		"Branch": "2920",
+		"easyhome Store": "",
+		"Address": "131 Main St",
+		"Address2": "Unit 10-B",
+		"City": "Dartmouth",
+		"Province": "NS",
+		"Postal Code": "B2X 1R6",
+		"Phone": "(902) 434-3355"
+	},
+	{
+		"Branch": "2927",
+		"easyhome Store": "3902",
+		"Address": "172 Wyse Rd",
+		"Address2": "Unit 100",
+		"City": "Dartmouth",
+		"Province": "NS",
+		"Postal Code": "B3A 1M6",
+		"Phone": "(902) 465-3449"
+	},
+	{
+		"Branch": "2947",
+		"easyhome Store": "",
+		"Address": "45 Plaza Blvd.",
+		"Address2": "Unit 10B",
+		"City": "Moncton",
+		"Province": "NB",
+		"Postal Code": "E1C 0E8",
+		"Phone": "(506) 388-7467"
+	},
+	{
+		"Branch": "2954",
+		"easyhome Store": "",
+		"Address": "165 Main St",
+		"Address2": "Unit 116",
+		"City": "Moncton",
+		"Province": "NB",
+		"Postal Code": "E1C 1B8",
+		"Phone": "(506) 804-0670"
+	},
+	{
+		"Branch": "2506",
+		"easyhome Store": "",
+		"Address": "1235 Donald St.",
+		"Address2": "Unit 8",
+		"City": "Ottawa",
+		"Province": "ON",
+		"Postal Code": "K1J 8W3",
+		"Phone": "(613) 916-6240"
+	},
+	{
+		"Branch": "2535",
+		"easyhome Store": "",
+		"Address": "1034 Pembroke St E",
+		"Address2": "Unit #2",
+		"City": "Pembroke",
+		"Province": "ON",
+		"Postal Code": "K8A 6Z2",
+		"Phone": "(613) 735-5776"
+	},
+	{
+		"Branch": "2537",
+		"easyhome Store": "3525",
+		"Address": "60 Lombard St",
+		"Address2": "Units 8 & 9",
+		"City": "Smith Falls",
+		"Province": "ON",
+		"Postal Code": "K7A 5K2",
+		"Phone": "(613) 284-8177"
+	},
+	{
+		"Branch": "2539",
+		"easyhome Store": "",
+		"Address": "2194 Carling Avenue",
+		"Address2": "Unit 2",
+		"City": "Ottawa",
+		"Province": "ON",
+		"Postal Code": "K2A 1H2",
+		"Phone": "(613) 820-7743"
+	},
+	{
+		"Branch": "2541",
+		"easyhome Store": "3582",
+		"Address": "640 O'Brien Rd",
+		"Address2": "Unit #3A",
+		"City": "Renfrew",
+		"Province": "ON",
+		"Postal Code": "K7V 3Z4",
+		"Phone": "(613) 433-3822"
+	},
+	{
+		"Branch": "2562",
+		"easyhome Store": "",
+		"Address": "438 Mcneely Ave",
+		"Address2": "Unit # 4",
+		"City": "Carleton Place",
+		"Province": "ON",
+		"Postal Code": "K7C 0A6",
+		"Phone": "(613) 257-6048"
+	},
+	{
+		"Branch": "2566",
+		"easyhome Store": "3524",
+		"Address": "320 McArthur Ave",
+		"Address2": "Unit A",
+		"City": "Ottawa",
+		"Province": "ON",
+		"Postal Code": "K1L 5G2",
+		"Phone": "(613) 842-0388"
+	},
+	{
+		"Branch": "2589",
+		"easyhome Store": "",
+		"Address": "1518 Merivale Rd.",
+		"Address2": "",
+		"City": "Nepean",
+		"Province": "ON",
+		"Postal Code": "K2G 3J6",
+		"Phone": "(613) 317-2872"
+	},
+	{
+		"Branch": "2592",
+		"easyhome Store": "",
+		"Address": "2369 St. Joseph Blvd.",
+		"Address2": "",
+		"City": "Orleans",
+		"Province": "ON",
+		"Postal Code": "K1C 2E3",
+		"Phone": "(613) 317-2880"
+	},
+	{
+		"Branch": "2594",
+		"easyhome Store": "",
+		"Address": "253 Bank St.",
+		"Address2": "",
+		"City": "Ottawa",
+		"Province": "ON",
+		"Postal Code": "K2P 1X2",
+		"Phone": "(613) 916-6329"
+	},
+	{
+		"Branch": "2904",
+		"easyhome Store": "",
+		"Address": "430 Topsail Rd. Unit 55",
+		"Address2": "Box #31",
+		"City": "St. John's",
+		"Province": "NL",
+		"Postal Code": "A1E 4N1",
+		"Phone": "(709) 722-0516"
+	},
+	{
+		"Branch": "2913",
+		"easyhome Store": "3943",
+		"Address": "344 Conception Bay Hwy. Unit 6",
+		"Address2": "P.O Box 16042 Station F",
+		"City": "Conception Bay South",
+		"Province": "NL",
+		"Postal Code": "A1X 2E2",
+		"Phone": "(709) 834-5875"
+	},
+	{
+		"Branch": "2916",
+		"easyhome Store": "",
+		"Address": "4-132 Bennett Dr",
+		"Address2": "",
+		"City": "Gander",
+		"Province": "NL",
+		"Postal Code": "A1V 2H2",
+		"Phone": "(709) 256-1167"
+	},
+	{
+		"Branch": "2918",
+		"easyhome Store": "",
+		"Address": "120 Columbus Dr",
+		"Address2": "Unit # 7B",
+		"City": "Carbonear",
+		"Province": "NL",
+		"Postal Code": "A1Y 1B3",
+		"Phone": "(709) 596-1694"
+	},
+	{
+		"Branch": "2923",
+		"easyhome Store": "3944",
+		"Address": "141 Torbay Rd",
+		"Address2": "Unit 1",
+		"City": "St. John's",
+		"Province": "NL",
+		"Postal Code": "A1A2H1",
+		"Phone": "(709) 739-7210"
+	},
+	{
+		"Branch": "2924",
+		"easyhome Store": "",
+		"Address": "8 Murphy Sq",
+		"Address2": "Unit # C2",
+		"City": "Corner Brook",
+		"Province": "NL",
+		"Postal Code": "A2H 1R4",
+		"Phone": "(709) 634-2726"
+	},
+	{
+		"Branch": "2931",
+		"easyhome Store": "",
+		"Address": "80 Kenmount RD",
+		"Address2": "Unit #3",
+		"City": "St. John's",
+		"Province": "NL",
+		"Postal Code": "A1B 3R1",
+		"Phone": "(709) 368-3320"
+	},
+	{
+		"Branch": "2939",
+		"easyhome Store": "",
+		"Address": "42 Queen St",
+		"Address2": "Unit # 155",
+		"City": "Stephenville",
+		"Province": "NL",
+		"Postal Code": "A2N 3A7",
+		"Phone": "(709) 643-4142"
+	},
+	{
+		"Branch": "2940",
+		"easyhome Store": "",
+		"Address": "69 Manitoba Dr",
+		"Address2": "Unit # 129",
+		"City": "Clarenville",
+		"Province": "NL",
+		"Postal Code": "A5A 1K3",
+		"Phone": "(709) 466-8026"
+	},
+	{
+		"Branch": "2946",
+		"easyhome Store": "",
+		"Address": "19 Cromer Ave",
+		"Address2": "Unit 19",
+		"City": "Grand Falls",
+		"Province": "NL",
+		"Postal Code": "A2A 1X3",
+		"Phone": "(855) 860-7905"
+	},
+	{
+		"Branch": "2948",
+		"easyhome Store": "",
+		"Address": "25 Columbia Dr.",
+		"Address2": "Unit 9",
+		"City": "Marystown",
+		"Province": "NL",
+		"Postal Code": "A0E 2M0",
+		"Phone": "(709) 567-9680"
+	},
+	{
+		"Branch": "2953",
+		"easyhome Store": "3934",
+		"Address": "29 Roe Ave",
+		"Address2": "Unit 2",
+		"City": "Gander",
+		"Province": "NL",
+		"Postal Code": "A1V 1W5",
+		"Phone": "(709) 422-1200"
+	},
+	{
+		"Branch": "2905",
+		"easyhome Store": "",
+		"Address": "3514 Joseph Howe Dr.",
+		"Address2": "Unit # 12",
+		"City": "Halifax",
+		"Province": "NS",
+		"Postal Code": "B3L 4H7",
+		"Phone": "(902) 453-9133"
+	},
+	{
+		"Branch": "2908",
+		"easyhome Store": "3907",
+		"Address": "799 Sackville Dr",
+		"Address2": "",
+		"City": "Lower Sackville",
+		"Province": "NS",
+		"Postal Code": "B4E 1R7",
+		"Phone": "(902) 864-0977"
+	},
+	{
+		"Branch": "2910",
+		"easyhome Store": "",
+		"Address": "339 University Ave",
+		"Address2": "Unit #5",
+		"City": "Charlottetown",
+		"Province": "PE",
+		"Postal Code": "C1A 4M8",
+		"Phone": "(902) 894-9451"
+	},
+	{
+		"Branch": "2911",
+		"easyhome Store": "3935",
+		"Address": "963 Central Ave",
+		"Address2": "Unit #48",
+		"City": "Greenwood",
+		"Province": "NS",
+		"Postal Code": "B0P 1N0",
+		"Phone": "(902) 765-9179"
+	},
+	{
+		"Branch": "2925",
+		"easyhome Store": "",
+		"Address": "421 Lahave St",
+		"Address2": "unit 290",
+		"City": "Bridgewater",
+		"Province": "NS",
+		"Postal Code": "B4V 3A2",
+		"Phone": "(902) 543-1175"
+	},
+	{
+		"Branch": "2929",
+		"easyhome Store": "",
+		"Address": "9 Babineau Ave",
+		"Address2": "",
+		"City": "Charlottetown",
+		"Province": "PE",
+		"Postal Code": "C1A 0C9",
+		"Phone": "(902) 569-2646"
+	},
+	{
+		"Branch": "2932",
+		"easyhome Store": "",
+		"Address": "130 Starrs Rd",
+		"Address2": "Unit # 3",
+		"City": "Yarmouth",
+		"Province": "NS",
+		"Postal Code": "B5A 4E5",
+		"Phone": "(902) 749-0449"
+	},
+	{
+		"Branch": "2933",
+		"easyhome Store": "",
+		"Address": "201 Chain Lake Dr.",
+		"Address2": "Unit # 22A",
+		"City": "Halifax",
+		"Province": "NS",
+		"Postal Code": "B3S 1C9",
+		"Phone": "(902) 876-2335"
+	},
+	{
+		"Branch": "2937",
+		"easyhome Store": "",
+		"Address": "505 Granville St",
+		"Address2": "",
+		"City": "Summerside",
+		"Province": "PE",
+		"Postal Code": "C1N 6V7",
+		"Phone": "(902) 436-4666"
+	},
+	{
+		"Branch": "2938",
+		"easyhome Store": "",
+		"Address": "9293 Commercial St",
+		"Address2": "Unit # 6A",
+		"City": "New Minas",
+		"Province": "NS",
+		"Postal Code": "B4N 3G2",
+		"Phone": "(902) 681-1011"
+	},
+	{
+		"Branch": "2951",
+		"easyhome Store": "",
+		"Address": "471 Hwy 303",
+		"Address2": "Unit 3",
+		"City": "Digby",
+		"Province": "NS",
+		"Postal Code": "B0V 1A0",
+		"Phone": "(902) 245-6123"
+	},
+	{
+		"Branch": "2516",
+		"easyhome Store": "",
+		"Address": "1232 Brookdale Ave",
+		"Address2": "Unit C",
+		"City": "Cornwall",
+		"Province": "ON",
+		"Postal Code": "K6J 4P8",
+		"Phone": "(613) 930-2320"
+	},
+	{
+		"Branch": "2517",
+		"easyhome Store": "",
+		"Address": "110 North Front St",
+		"Address2": "Unit # A002",
+		"City": "Belleville",
+		"Province": "ON",
+		"Postal Code": "K8P 5J8",
+		"Phone": "(613) 962-5749"
+	},
+	{
+		"Branch": "2521",
+		"easyhome Store": "",
+		"Address": "1201 Division St",
+		"Address2": "Unit # C3",
+		"City": "Kingston",
+		"Province": "ON",
+		"Postal Code": "K7K 6X4",
+		"Phone": "(613) 548-9479"
+	},
+	{
+		"Branch": "2564",
+		"easyhome Store": "3664",
+		"Address": "305 North Front St",
+		"Address2": "",
+		"City": "Belleville",
+		"Province": "ON",
+		"Postal Code": "K8P 3C3",
+		"Phone": "(613) 962-3311"
+	},
+	{
+		"Branch": "2569",
+		"easyhome Store": "",
+		"Address": "2462 Parkedale Ave",
+		"Address2": "Unit # 1",
+		"City": "Brockville",
+		"Province": "ON",
+		"Postal Code": "K6V 3G8",
+		"Phone": "(613) 704-4360"
+	},
+	{
+		"Branch": "2587",
+		"easyhome Store": "",
+		"Address": "172 Division St.",
+		"Address2": "",
+		"City": "Kingston",
+		"Province": "ON",
+		"Postal Code": "K7L 3M8",
+		"Phone": "(613) 417-1041"
+	},
+	{
+		"Branch": "2588",
+		"easyhome Store": "",
+		"Address": "277 Bath Rd.",
+		"Address2": "",
+		"City": "Kingston",
+		"Province": "ON",
+		"Postal Code": "K7M 2X6",
+		"Phone": "(613) 417-0891"
+	},
+	{
+		"Branch": "2600",
+		"easyhome Store": "",
+		"Address": "10 Dundas St. W",
+		"Address2": "",
+		"City": "Trenton",
+		"Province": "ON",
+		"Postal Code": "K8V 3P1",
+		"Phone": "(343) 600-0043"
+	},
+	{
+		"Branch": "2607",
+		"easyhome Store": "3528",
+		"Address": "837 Pitt St",
+		"Address2": "Unit 3",
+		"City": "Cornwall",
+		"Province": "ON",
+		"Postal Code": "K6J 3S4",
+		"Phone": "(613) 209-3642"
+	},
+	{
+		"Branch": "2701",
+		"easyhome Store": "",
+		"Address": "1805 Saint-Martin Blvd.W",
+		"Address2": "",
+		"City": "Laval",
+		"Province": "QC",
+		"Postal Code": "H7S 1N2",
+		"Phone": "(450) 232-3903"
+	},
+	{
+		"Branch": "2702",
+		"easyhome Store": "",
+		"Address": "56 boul. de la Gappe",
+		"Address2": "Unit R1B",
+		"City": "Gatineau",
+		"Province": "QC",
+		"Postal Code": "J8T 0B5",
+		"Phone": "(873) 800-2324"
+	},
+	{
+		"Branch": "2704",
+		"easyhome Store": "",
+		"Address": "552 boul. Wilfred Hamel",
+		"Address2": "Unit 011A",
+		"City": "Quebec City",
+		"Province": "QC",
+		"Postal Code": "G1M 3E5",
+		"Phone": "(581) 705-0290"
+	},
+	{
+		"Branch": "2706",
+		"easyhome Store": "",
+		"Address": "98D Rte Du Président-Kennedy",
+		"Address2": "",
+		"City": "Levis",
+		"Province": "QC",
+		"Postal Code": "G6V 6C9",
+		"Phone": "(581) 500-5285"
+	},
+	{
+		"Branch": "2709",
+		"easyhome Store": "",
+		"Address": "7184 boul Langelier",
+		"Address2": "",
+		"City": "St. Leonard",
+		"Province": "QC",
+		"Postal Code": "H1S 2X6",
+		"Phone": "(438) 806-2653"
+	},
+	{
+		"Branch": "2710",
+		"easyhome Store": "",
+		"Address": "1749 rue Fleury E",
+		"Address2": "",
+		"City": "Montreal",
+		"Province": "QC",
+		"Postal Code": "H2C 1T3",
+		"Phone": "(438) 806-2650"
+	},
+	{
+		"Branch": "2711",
+		"easyhome Store": "",
+		"Address": "6849 boul Newman",
+		"Address2": "",
+		"City": "LaSalle",
+		"Province": "QC",
+		"Postal Code": "H8N 3E4",
+		"Phone": "(438) 800-1940"
+	},
+	{
+		"Branch": "2713",
+		"easyhome Store": "",
+		"Address": "85 boul Brien",
+		"Address2": "Unit 104",
+		"City": "Repentigny",
+		"Province": "QC",
+		"Postal Code": "J6A 8B6",
+		"Phone": "(438) 800-5939"
+	},
+	{
+		"Branch": "2716",
+		"easyhome Store": "",
+		"Address": "999 Avenue de Bourgogne",
+		"Address2": "11",
+		"City": "QUÉBEC",
+		"Province": "QC",
+		"Postal Code": "G1W 4S6",
+		"Phone": "(581) 702-1826"
+	},
+	{
+		"Branch": "2719",
+		"easyhome Store": "",
+		"Address": "1415 Boulevard Michèle-Bohec",
+		"Address2": "Unit C5",
+		"City": "Blainville",
+		"Province": "QC",
+		"Postal Code": "J7C 5L4",
+		"Phone": "(438) 794-3960"
+	},
+	{
+		"Branch": "2703",
+		"easyhome Store": "",
+		"Address": "8015 Boul. Du Quartier",
+		"Address2": "Unit #106",
+		"City": "Brossard",
+		"Province": "QC",
+		"Postal Code": "J4Y 0N6",
+		"Phone": "(438) 800-1935"
+	},
+	{
+		"Branch": "2705",
+		"easyhome Store": "",
+		"Address": "6146 Boul Henri-Bourassa E",
+		"Address2": "",
+		"City": "Montréal-Nord",
+		"Province": "QC",
+		"Postal Code": "H1G 5X3",
+		"Phone": "(438) 800-2090"
+	},
+	{
+		"Branch": "2708",
+		"easyhome Store": "",
+		"Address": "3145 boul. De Portland",
+		"Address2": "",
+		"City": "Sherbrooke",
+		"Province": "QC",
+		"Postal Code": "J1L 2P1",
+		"Phone": "(873) 500-5055"
+	},
+	{
+		"Branch": "2714",
+		"easyhome Store": "",
+		"Address": "2877 Chemin de Chambly",
+		"Address2": "Ste 30",
+		"City": "Longueuil",
+		"Province": "QC",
+		"Postal Code": "J4L 1M8",
+		"Phone": "(579) 999-0312"
+	},
+	{
+		"Branch": "2715",
+		"easyhome Store": "",
+		"Address": "180 boul d'Anjou",
+		"Address2": "Ste 102",
+		"City": "Chateauguay",
+		"Province": "QC",
+		"Postal Code": "J6K 1C4",
+		"Phone": "(579) 977-0050"
+	},
+	{
+		"Branch": "2717",
+		"easyhome Store": "",
+		"Address": "565 boul Saint-Joseph",
+		"Address2": "Unit 16",
+		"City": "Drummondville",
+		"Province": "QC",
+		"Postal Code": "J2C 2B6",
+		"Phone": "(819) 803-1002"
+	},
+	{
+		"Branch": "2718",
+		"easyhome Store": "",
+		"Address": "174 Boulevard Saint-Luc",
+		"Address2": "Unit 100",
+		"City": "Saint-Jean-sur-Richelieu ",
+		"Province": "QC",
+		"Postal Code": "J2W OJ2",
+		"Phone": "(450) 390-0328"
+	},
+	{
+		"Branch": "2721",
+		"easyhome Store": "",
+		"Address": "3300 Boulevard Laframboise",
+		"Address2": "",
+		"City": "Saint-Hyacinthe",
+		"Province": "QC",
+		"Postal Code": "J2S 4Z4",
+		"Phone": "(450) 924-3610"
+	},
+	{
+		"Branch": "3514",
+		"Address": "105 Bayly Street West",
+		"Address2": "Unit #7/8",
+		"City": "Ajax",
+		"Province": "ON",
+		"Postal Code": "L1S 7K7",
+		"Phone": "(905) 683-2933"
+	},
+	{
+		"Branch": "3526",
+		"Address": "1000 Elgin Street West",
+		"Address2": "",
+		"City": "Cobourg",
+		"Province": "ON",
+		"Postal Code": "K9A 5S1",
+		"Phone": "(905) 372-7550"
+	},
+	{
+		"Branch": "3532",
+		"Address": "3003 Danforth Ave",
+		"Address2": "Unit #7",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M4C 1M9",
+		"Phone": "(416) 693-2381"
+	},
+	{
+		"Branch": "3533",
+		"Address": "2650 Lawrence Ave East",
+		"Address2": "Unit #6",
+		"City": "Scarborough",
+		"Province": "ON",
+		"Postal Code": "M1P 2S1",
+		"Phone": "(416) 269-8113"
+	},
+	{
+		"Branch": "3547",
+		"Address": "125 George Street North",
+		"Address2": "",
+		"City": "Peterborough",
+		"Province": "ON",
+		"Postal Code": "K9J 3G3",
+		"Phone": "(705) 745-8182"
+	},
+	{
+		"Branch": "3595",
+		"Address": "266 Dundas Street East",
+		"Address2": "Units #103 & 104",
+		"City": "Trenton",
+		"Province": "ON",
+		"Postal Code": "K8V 5Z9",
+		"Phone": "(613) 392-8053"
+	},
+	{
+		"Branch": "3615",
+		"Address": "3225 Eglinton Ave E",
+		"Address2": "Ste 101A",
+		"City": "Scarborough",
+		"Province": "ON",
+		"Postal Code": "M1J 2H7",
+		"Phone": "(416) 267-6821"
+	},
+	{
+		"Branch": "3401",
+		"Address": "1522 Regent Ave. West",
+		"Address2": "Unit H",
+		"City": "Winnipeg",
+		"Province": "MB",
+		"Postal Code": "R2C3B4",
+		"Phone": "(204) 925-4702"
+	},
+	{
+		"Branch": "3402",
+		"Address": "930 - 18th Street",
+		"Address2": "",
+		"City": "Brandon",
+		"Province": "MB",
+		"Postal Code": "R7A 5C1",
+		"Phone": "(204) 571-9090"
+	},
+	{
+		"Branch": "3403",
+		"Address": "2230 McPhillips Street",
+		"Address2": "Unit #11",
+		"City": "Winnipeg",
+		"Province": "MB",
+		"Postal Code": "R2V 3C8",
+		"Phone": "(204) 334-1441"
+	},
+	{
+		"Branch": "3516",
+		"Address": "7201 Tecumseh Rd E",
+		"Address2": "Unit #5",
+		"City": "Windsor",
+		"Province": "ON",
+		"Postal Code": "N8T 3K4",
+		"Phone": "(519) 948-5771"
+	},
+	{
+		"Branch": "3539",
+		"Address": "3751 Tecumseh Road East",
+		"Address2": "",
+		"City": "Windsor",
+		"Province": "ON",
+		"Postal Code": "N8W 1H8",
+		"Phone": "(519) 974-2900"
+	},
+	{
+		"Branch": "3554",
+		"Address": "300 Tecumseh Road East",
+		"Address2": "Unit 346",
+		"City": "Windsor",
+		"Province": "ON",
+		"Postal Code": "N8X 5E8",
+		"Phone": "(519) 258-7718"
+	},
+	{
+		"Branch": "3578",
+		"Address": "150 West St",
+		"Address2": "Unit #105 & 106",
+		"City": "Simcoe",
+		"Province": "ON",
+		"Postal Code": "N3Y 5C1",
+		"Phone": "(519) 428-9779"
+	},
+	{
+		"Branch": "3581",
+		"Address": "360 Caradoc St S",
+		"Address2": "Unit #5",
+		"City": "Strathroy",
+		"Province": "ON",
+		"Postal Code": "N7G 2P6",
+		"Phone": "(519) 245-9883"
+	},
+	{
+		"Branch": "3592",
+		"Address": "164 Broadway St",
+		"Address2": "Unit # 13",
+		"City": "Tillsonburg",
+		"Province": "ON",
+		"Postal Code": "N4G 5A8",
+		"Phone": "(519) 688-1768"
+	},
+	{
+		"Branch": "3505",
+		"Address": "1 Hespeler Road",
+		"Address2": "Unit #B2",
+		"City": "Cambridge",
+		"Province": "ON",
+		"Postal Code": "N1R 8L4",
+		"Phone": "(519) 621-7070"
+	},
+	{
+		"Branch": "3510",
+		"Address": "1 Yorkgate Blvd",
+		"Address2": "",
+		"City": "North York",
+		"Province": "ON",
+		"Postal Code": "M3N 3A1",
+		"Phone": "(416) 661-9999"
+	},
+	{
+		"Branch": "3511",
+		"Address": "7205 Goreway Drive",
+		"Address2": "Unit #54",
+		"City": "Mississauga",
+		"Province": "ON",
+		"Postal Code": "L4T 2T9",
+		"Phone": "(905) 673-5440"
+	},
+	{
+		"Branch": "3534",
+		"Address": "1530 Albion Road",
+		"Address2": "Unit #90",
+		"City": "Etobicoke",
+		"Province": "ON",
+		"Postal Code": "M9V 1B2",
+		"Phone": "(416) 740-1380"
+	},
+	{
+		"Branch": "3540",
+		"Address": "525 Highland Rd W",
+		"Address2": "Unit #7",
+		"City": "Kitchener",
+		"Province": "ON",
+		"Postal Code": "N2M 5K1",
+		"Phone": "(519) 579-7770"
+	},
+	{
+		"Branch": "3588",
+		"Address": "1070 - 10th Street",
+		"Address2": "RR #1",
+		"City": "Hanover",
+		"Province": "ON",
+		"Postal Code": "N4N 3B8",
+		"Phone": "(519) 364-0768"
+	},
+	{
+		"Branch": "3616",
+		"Address": "2202 Jane St",
+		"Address2": "#1-A",
+		"City": "North York",
+		"Province": "ON",
+		"Postal Code": "M3M 1A4",
+		"Phone": "(416) 248-4646"
+	},
+	{
+		"Branch": "3203",
+		"Address": "469 Mayor Magrath Dr S.",
+		"Address2": "",
+		"City": "Lethbridge",
+		"Province": "AB",
+		"Postal Code": "T1J 3L8",
+		"Phone": "(403) 382-3460"
+	},
+	{
+		"Branch": "3206",
+		"Address": "9737 Macleod Trail SW",
+		"Address2": "Suite 220",
+		"City": "Calgary",
+		"Province": "AB",
+		"Postal Code": "T2J 0P6",
+		"Phone": "(403) 253-9299"
+	},
+	{
+		"Branch": "3209",
+		"Address": "3508 - 32 Avenue NE",
+		"Address2": "Unit #351",
+		"City": "Calgary",
+		"Province": "AB",
+		"Postal Code": "T1Y 6J2",
+		"Phone": "(403) 717-0650"
+	},
+	{
+		"Branch": "3210",
+		"Address": "3012 - 17th Avenue SE",
+		"Address2": "Unit #12",
+		"City": "Calgary",
+		"Province": "AB",
+		"Postal Code": "T2A 0P9",
+		"Phone": "(403) 248-2620"
+	},
+	{
+		"Branch": "3215",
+		"Address": "6320 50th Avenue",
+		"Address2": "Suite 42",
+		"City": "Red Deer",
+		"Province": "AB",
+		"Postal Code": "T4N 4C6",
+		"Phone": "(403) 348-8132"
+	},
+	{
+		"Branch": "3216",
+		"Address": "3168 Dunmore Road SE",
+		"Address2": "Unit 3168",
+		"City": "Medicine Hat",
+		"Province": "AB",
+		"Postal Code": "T1B 2X2",
+		"Phone": "(403) 526-2500"
+	},
+	{
+		"Branch": "3225",
+		"Address": "6700 - 46th St.",
+		"Address2": "Unit #260",
+		"City": "Olds",
+		"Province": "AB",
+		"Postal Code": "T4H 0A2",
+		"Phone": "(403) 556-9075"
+	},
+	{
+		"Branch": "3230",
+		"Address": "495 36th Street NE",
+		"Address2": "Suite 106",
+		"City": "Calgary",
+		"Province": "AB",
+		"Postal Code": "T2A 6K3",
+		"Phone": "(403) 248-1333"
+	},
+	{
+		"Branch": "3507",
+		"Address": "1187 Barton St E",
+		"Address2": "Unit U07",
+		"City": "Hamilton",
+		"Province": "ON",
+		"Postal Code": "L8H 2V4",
+		"Phone": "(905) 544-7070"
+	},
+	{
+		"Branch": "3512",
+		"Address": "2500 Hurontario St.",
+		"Address2": "Unit #7&8",
+		"City": "Mississauga",
+		"Province": "ON",
+		"Postal Code": "L5B 1N4",
+		"Phone": "(905) 897-5511"
+	},
+	{
+		"Branch": "3537",
+		"Address": "2355 Keele St",
+		"Address2": "Building ",
+		"City": "North York",
+		"Province": "ON",
+		"Postal Code": "M6M 4A2",
+		"Phone": "(416) 244-9144"
+	},
+	{
+		"Branch": "3553",
+		"Address": "300 Lincoln Street",
+		"Address2": "Unit 21",
+		"City": "Welland",
+		"Province": "ON",
+		"Postal Code": "L3B 3X4",
+		"Phone": "(905) 732-3888"
+	},
+	{
+		"Branch": "3568",
+		"Address": "3100 Dixie Road",
+		"Address2": "Unit #1",
+		"City": "Mississauga",
+		"Province": "ON",
+		"Postal Code": "L4Y 2A6",
+		"Phone": "(905) 270-8666"
+	},
+	{
+		"Branch": "3573",
+		"Address": "7190 Morrison St",
+		"Address2": "Unit C3",
+		"City": "Niagara Falls",
+		"Province": "ON",
+		"Postal Code": "L2E 7K5",
+		"Phone": "(905) 357-5655"
+	},
+	{
+		"Branch": "3604",
+		"Address": "2151 St. Clair Ave W",
+		"Address2": "Unit 102",
+		"City": "Toronto",
+		"Province": "ON",
+		"Postal Code": "M6N 1K5",
+		"Phone": "(416) 766-2900"
+	},
+	{
+		"Branch": "3506",
+		"Address": "480 Pim Street",
+		"Address2": "Unit #200",
+		"City": "Sault Ste. Marie",
+		"Province": "ON",
+		"Postal Code": "P6B 2V4",
+		"Phone": "(705) 254-7858"
+	},
+	{
+		"Branch": "3517",
+		"Address": "369 Main Street",
+		"Address2": "Unit C8",
+		"City": "Thunder Bay",
+		"Province": "ON",
+		"Postal Code": "P7B 5L6",
+		"Phone": "(807) 622-9090"
+	},
+	{
+		"Branch": "3519",
+		"Address": "975 McKeown Ave.",
+		"Address2": "Unit M2",
+		"City": "North Bay",
+		"Province": "ON",
+		"Postal Code": "P1B 9P2",
+		"Phone": "(705) 474-8080"
+	},
+	{
+		"Branch": "3551",
+		"Address": "900 Lasalle Blvd",
+		"Address2": "Unit #J",
+		"City": "Sudbury",
+		"Province": "ON",
+		"Postal Code": "P3A 5W8",
+		"Phone": "(705) 566-2689"
+	},
+	{
+		"Branch": "3559",
+		"Address": "1500 Riverside Dr",
+		"Address2": "Unit 51",
+		"City": "Timmins",
+		"Province": "ON",
+		"Postal Code": "P4R 1A1",
+		"Phone": "(705) 268-8080"
+	},
+	{
+		"Branch": "3589",
+		"Address": "534 Park St",
+		"Address2": "Unit 9",
+		"City": "Kenora",
+		"Province": "ON",
+		"Postal Code": "P9N 1A1",
+		"Phone": "(807) 468-7085"
+	},
+	{
+		"Branch": "3599",
+		"Address": "150 Government Rd. West",
+		"Address2": "Unit # 185",
+		"City": "Kirkland Lake",
+		"Province": "ON",
+		"Postal Code": "P2N 2E9",
+		"Phone": "(705) 567-1130"
+	},
+	{
+		"Branch": "3207",
+		"Address": "3708 50 Ave",
+		"Address2": "Unit J",
+		"City": "Lloydminster",
+		"Province": "AB",
+		"Postal Code": "T9V 0V7",
+		"Phone": "(780) 872-7456"
+	},
+	{
+		"Branch": "3304",
+		"Address": "801 15th St E",
+		"Address2": "Suite 927",
+		"City": "Prince Albert",
+		"Province": "SK",
+		"Postal Code": "S6V 0C7",
+		"Phone": "(306) 922-9090"
+	},
+	{
+		"Branch": "3305",
+		"Address": "602-B 22nd St W",
+		"Address2": "",
+		"City": "Saskatoon",
+		"Province": "SK",
+		"Postal Code": "S7M 5W1",
+		"Phone": "(306) 384-8544"
+	},
+	{
+		"Branch": "3306",
+		"Address": "913 Albert St",
+		"Address2": "",
+		"City": "Regina",
+		"Province": "SK",
+		"Postal Code": "S4R 2P6",
+		"Phone": "(306) 545-9090"
+	},
+	{
+		"Branch": "3308",
+		"Address": "11411 Railway Ave E",
+		"Address2": "",
+		"City": "North Battleford",
+		"Province": "SK",
+		"Postal Code": "S9A 3G8",
+		"Phone": "(306) 445-8500"
+	},
+	{
+		"Branch": "3311",
+		"Address": "3120-8 St. East",
+		"Address2": "Unit #100",
+		"City": "Saskatoon",
+		"Province": "SK",
+		"Postal Code": "S7H 0W2",
+		"Phone": "(306) 651-4355"
+	},
+	{
+		"Branch": "3202",
+		"Address": "9104 118th Ave",
+		"Address2": "",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T5B 0V1",
+		"Phone": "(780) 474-1444"
+	},
+	{
+		"Branch": "3212",
+		"Address": "11030-100 St",
+		"Address2": "Unit 108",
+		"City": "Grande Prairie",
+		"Province": "AB",
+		"Postal Code": "T8V2N1",
+		"Phone": "(780) 538-9090"
+	},
+	{
+		"Branch": "3213",
+		"Address": "8201 - 118th Avenue",
+		"Address2": "",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T5B 0S2",
+		"Phone": "(780) 474-1400"
+	},
+	{
+		"Branch": "3214",
+		"Address": "340 Mayfield Common Shopping Ctr",
+		"Address2": "Suite 288",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T5P 4B3",
+		"Phone": "(780) 444-9254"
+	},
+	{
+		"Branch": "3219",
+		"Address": "3760-56 Street",
+		"Address2": "",
+		"City": "Wetaskiwin",
+		"Province": "AB",
+		"Postal Code": "T9A 2B2",
+		"Phone": "(780) 352-2454"
+	},
+	{
+		"Branch": "3221",
+		"Address": "4303 - 50 Street",
+		"Address2": "Unit C",
+		"City": "Cold Lake",
+		"Province": "AB",
+		"Postal Code": "T9M 1K6",
+		"Phone": "(780) 594-3745"
+	},
+	{
+		"Branch": "3222",
+		"Address": "5004B Dahl Dr",
+		"Address2": "Unit #2",
+		"City": "3",
+		"Province": "4",
+		"Postal Code": "Whitecourt",
+		"Phone": "AB"
+	},
+	{
+		"Branch": "3223",
+		"Address": "1500 Main St",
+		"Address2": "Unit 451",
+		"City": "Slave Lake",
+		"Province": "AB",
+		"Postal Code": "T0G 2A4",
+		"Phone": "(780) 849-2721"
+	},
+	{
+		"Branch": "3228",
+		"Address": "14915 Stony Plain Road NW",
+		"Address2": "",
+		"City": "Edmonton",
+		"Province": "AB",
+		"Postal Code": "T5P 3Z3",
+		"Phone": "(780) 444-4422"
+	},
+	{
+		"Branch": "3102",
+		"Address": "32500 South Fraser Way",
+		"Address2": "Unit 222",
+		"City": "Abbotsford",
+		"Province": "BC",
+		"Postal Code": "V2T 4W1",
+		"Phone": "(604) 852-5954"
+	},
+	{
+		"Branch": "3103",
+		"Address": "1205 Blanshard St",
+		"Address2": "",
+		"City": "Victoria",
+		"Province": "BC",
+		"Postal Code": "V8W 3J4",
+		"Phone": "(250) 361-3944"
+	},
+	{
+		"Branch": "3104",
+		"Address": "550 - 5th Street",
+		"Address2": "Unit # 200",
+		"City": "Nanaimo",
+		"Province": "BC",
+		"Postal Code": "V9R 1P1",
+		"Phone": "(250) 754-8383"
+	},
+	{
+		"Branch": "3106",
+		"Address": "370 East Broadway",
+		"Address2": "Unit #119",
+		"City": "Vancouver",
+		"Province": "BC",
+		"Postal Code": "V5T 4G5",
+		"Phone": "(604) 707-6690"
+	},
+	{
+		"Branch": "3107",
+		"Address": "10789 King George Blvd",
+		"Address2": "",
+		"City": "Surrey",
+		"Province": "BC",
+		"Postal Code": "V3T 2X6",
+		"Phone": "(604) 588-9191"
+	},
+	{
+		"Branch": "3111",
+		"Address": "310 - 8th Street",
+		"Address2": "Unit 2",
+		"City": "Courtenay",
+		"Province": "BC",
+		"Postal Code": "V9N 1N3",
+		"Phone": "(250) 334-2636"
+	},
+	{
+		"Branch": "3115",
+		"Address": "22441 Dewdney Trunk Rd",
+		"Address2": "Unit#119",
+		"City": "Maple Ridge",
+		"Province": "BC",
+		"Postal Code": "V2X 7X7",
+		"Phone": "(604) 463-9406"
+	},
+	{
+		"Branch": "3120",
+		"Address": "1001-8249 Eagle Landing Pkwy",
+		"Address2": "",
+		"City": "Chilliwack",
+		"Province": "BC",
+		"Postal Code": "V2R 0P9",
+		"Phone": "(604) 792-1755"
+	},
+	{
+		"Branch": "3105",
+		"Address": "1600 - 15th Ave",
+		"Address2": "Units #185 & #187",
+		"City": "Prince George",
+		"Province": "BC",
+		"Postal Code": "V2L 3X3",
+		"Phone": "(250) 562-5462"
+	},
+	{
+		"Branch": "3109",
+		"Address": "700 Tranquille Rd",
+		"Address2": "Unit 22",
+		"City": "Kamloops",
+		"Province": "BC",
+		"Postal Code": "V2B 3H9",
+		"Phone": "(250) 376-6208"
+	},
+	{
+		"Branch": "3110",
+		"Address": "104-4717 Lakelse Ave",
+		"Address2": "",
+		"City": "Terrace",
+		"Province": "BC",
+		"Postal Code": "V8G 1R5",
+		"Phone": "(250) 615-3185"
+	},
+	{
+		"Branch": "3112",
+		"Address": "2339 Highway 97 North",
+		"Address2": "Unit #460",
+		"City": "Kelowna",
+		"Province": "BC",
+		"Postal Code": "V1X 4H9",
+		"Phone": "(250) 448-8510"
+	},
+	{
+		"Branch": "3113",
+		"Address": "4400-32 Street",
+		"Address2": "Unit #E560",
+		"City": "Vernon",
+		"Province": "BC",
+		"Postal Code": "V1T 9H2",
+		"Phone": "(250) 545-2907"
+	},
+	{
+		"Branch": "3122",
+		"Address": "850 Oliver St",
+		"Address2": "Unit #22",
+		"City": "Williams Lake",
+		"Province": "BC",
+		"Postal Code": "V2G 3W1",
+		"Phone": "(250) 305-1222"
+	},
+	{
+		"Branch": "3901",
+		"Address": "930 St. Anne St",
+		"Address2": "Unit #3",
+		"City": "Bathurst",
+		"Province": "NB",
+		"Postal Code": "E2A 6X2",
+		"Phone": "(506) 548-4587"
+	},
+	{
+		"Branch": "3909",
+		"Address": "87 Lansdowne Ave",
+		"Address2": "",
+		"City": "Saint John",
+		"Province": "NB",
+		"Postal Code": "E2K 3A1",
+		"Phone": "(506) 632-8990"
+	},
+	{
+		"Branch": "3910",
+		"Address": "438 Paul St",
+		"Address2": "Unit 4",
+		"City": "Dieppe",
+		"Province": "NB",
+		"Postal Code": "E1A 4Z2",
+		"Phone": "(506) 858-0822"
+	},
+	{
+		"Branch": "3912",
+		"Address": "5 Trinity Ave",
+		"Address2": "Unit #4",
+		"City": "Fredericton",
+		"Province": "NB",
+		"Postal Code": "E3C 0B7",
+		"Phone": "(506) 455-4000"
+	},
+	{
+		"Branch": "3913",
+		"Address": "2441 King George Hwy",
+		"Address2": "Ste. 16",
+		"City": "Miramichi",
+		"Province": "NB",
+		"Postal Code": "E1V 6W2",
+		"Phone": "(506) 622-5909"
+	},
+	{
+		"Branch": "3917",
+		"Address": "80 McAllister Dr",
+		"Address2": "Unit #3",
+		"City": "Saint John",
+		"Province": "NB",
+		"Postal Code": "E2J 2S5",
+		"Phone": "(506) 636-9090"
+	},
+	{
+		"Branch": "3936",
+		"Address": "180 Madawaska Rd",
+		"Address2": "Unit #235",
+		"City": "Grand Falls",
+		"Province": "NB",
+		"Postal Code": "E3Y 1A7",
+		"Phone": "(506) 475-9165"
+	},
+	{
+		"Branch": "3937",
+		"Address": "110 Main St",
+		"Address2": "Unit #2",
+		"City": "Sussex",
+		"Province": "NB",
+		"Postal Code": "E4E 3E5",
+		"Phone": "(506) 433-6644"
+	},
+	{
+		"Branch": "3938",
+		"Address": "370 Connell St",
+		"Address2": "Unit #0140",
+		"City": "Woodstock",
+		"Province": "NB",
+		"Postal Code": "E7M 5G9",
+		"Phone": "(506) 324-9320"
+	},
+	{
+		"Branch": "3940",
+		"Address": "80 Mapleton Rd",
+		"Address2": "Unit #12",
+		"City": "Moncton",
+		"Province": "NB",
+		"Postal Code": "E1C 7W8",
+		"Phone": "(506) 388-9048"
+	},
+	{
+		"Branch": "3947",
+		"Address": "102 Main St",
+		"Address2": "",
+		"City": "Fredericton",
+		"Province": "NB",
+		"Postal Code": "E3A 9N6",
+		"Phone": "(506) 455-4065"
+	},
+	{
+		"Branch": "3905",
+		"Address": "465 University Ave",
+		"Address2": "",
+		"City": "Charlottetown",
+		"Province": "PE",
+		"Postal Code": "C1A 4N8",
+		"Phone": "(902) 894-4931"
+	},
+	{
+		"Branch": "3911",
+		"Address": "325 Prince St",
+		"Address2": "Unit 120",
+		"City": "Sydney",
+		"Province": "NS",
+		"Postal Code": "B1P 5K6",
+		"Phone": "(902) 562-7368"
+	},
+	{
+		"Branch": "3915",
+		"Address": "79 Lavinia St",
+		"Address2": "",
+		"City": "New Glasgow",
+		"Province": "NS",
+		"Postal Code": "B2H 1N5",
+		"Phone": "(902) 752-7111"
+	},
+	{
+		"Branch": "3921",
+		"Address": "68 Robie St.",
+		"Address2": "Unit #0190",
+		"City": "Truro",
+		"Province": "NS",
+		"Postal Code": "B2N 1L2",
+		"Phone": "(902) 896-0075"
+	},
+	{
+		"Branch": "3923",
+		"Address": "454 Granville St",
+		"Address2": "Unit #3D",
+		"City": "Summerside",
+		"Province": "PE",
+		"Postal Code": "C1N 4K7",
+		"Phone": "(902) 888-4520"
+	},
+	{
+		"Branch": "3925",
+		"Address": "142 South Albion St",
+		"Address2": "",
+		"City": "Amherst",
+		"Province": "NS",
+		"Postal Code": "B4H 4H4",
+		"Phone": "(902) 661-2295"
+	},
+	{
+		"Branch": "3929",
+		"Address": "47 Paint St",
+		"Address2": "Unit 19",
+		"City": "Port Hawkesbury",
+		"Province": "NS",
+		"Postal Code": "B9A 3J9",
+		"Phone": "(902) 625-5029"
+	},
+	{
+		"Branch": "3701",
+		"Address": "1401 Chemin de Chambly",
+		"Address2": "Unit #8",
+		"City": "Longueuil",
+		"Province": "QC",
+		"Postal Code": "J4J 3X6",
+		"Phone": "(450) 670-8080"
+	},
+	{
+		"Branch": "3702",
+		"Address": "340 Belvedere South",
+		"Address2": "",
+		"City": "Sherbrooke",
+		"Province": "QC",
+		"Postal Code": "J1H 4B5",
+		"Phone": "(819) 348-8080"
+	},
+	{
+		"Branch": "3703",
+		"Address": "435 Soumande St",
+		"Address2": "",
+		"City": "Quebec",
+		"Province": "QC",
+		"Postal Code": "G1M 2X6",
+		"Phone": "(418) 682-3666"
+	},
+	{
+		"Branch": "3704",
+		"Address": "3235 Avenue de Granby",
+		"Address2": "",
+		"City": "Montreal",
+		"Province": "QC",
+		"Postal Code": "H1N 2Z7",
+		"Phone": "(514) 374-8080"
+	},
+	{
+		"Branch": "3705",
+		"Address": "1799 Saint-Martin Blvd. West",
+		"Address2": "",
+		"City": "Laval",
+		"Province": "QC",
+		"Postal Code": "H7S 1N2",
+		"Phone": "(450) 629-8080"
+	},
+	{
+		"Branch": "3706",
+		"Address": "780 Blvd. St. Maurice",
+		"Address2": "Centre Carnaval",
+		"City": "Trois Rivieres",
+		"Province": "QC",
+		"Postal Code": "G9A 3P6",
+		"Phone": "(819) 371-2845"
+	},
+	{
+		"Branch": "3707",
+		"Address": "400 boul du seminaire N",
+		"Address2": "Unit #E2",
+		"City": "St. Jean-sur-Richelieu",
+		"Province": "QC",
+		"Postal Code": "J3B 5L2",
+		"Phone": "(450) 349-6007"
+	},
+	{
+		"Branch": "3710",
+		"Address": "400 boul St. Joseph",
+		"Address2": "",
+		"City": "Drummondville",
+		"Province": "QC",
+		"Postal Code": "J2C 2A8",
+		"Phone": "(819) 478-1890"
+	},
+	{
+		"Branch": "3713",
+		"Address": "5630A Henri-Bourassa Blvd East",
+		"Address2": "",
+		"City": "Montreal North",
+		"Province": "QC",
+		"Postal Code": "H1G 2T2",
+		"Phone": "(514) 327-8838"
+	},
+	{
+		"Branch": "3918",
+		"Address": "24 Murphy Square",
+		"Address2": "Unit #4",
+		"City": "Corner Brook",
+		"Province": "NL",
+		"Postal Code": "A2H 1R4",
+		"Phone": "(709) 632-5300"
+	},
+	{
+		"Branch": "3920",
+		"Address": "80 Kenmount Rd",
+		"Address2": "",
+		"City": "St. John's",
+		"Province": "NL",
+		"Postal Code": "A1B 3R1",
+		"Phone": "(709) 722-9780"
+	},
+	{
+		"Branch": "3924",
+		"Address": "28 Cromer Ave",
+		"Address2": "",
+		"City": "Grand Falls-Windsor",
+		"Province": "NL",
+		"Postal Code": "A2A 1X2",
+		"Phone": "(709) 489-8510"
+	},
+	{
+		"Branch": "3926",
+		"Address": "32 Shoal Harbour Dr.",
+		"Address2": "Unit B & C",
+		"City": "Clarenville",
+		"Province": "NL",
+		"Postal Code": "A5A 2C4",
+		"Phone": "(709) 466-5501"
+	},
+	{
+		"Branch": "3927",
+		"Address": "25 Columbia Dr",
+		"Address2": "Unit 32",
+		"City": "Marystown",
+		"Province": "NL",
+		"Postal Code": "A0E 2M0",
+		"Phone": "(709) 279-2081"
+	},
+	{
+		"Branch": "3928",
+		"Address": "120 Columbus Drive",
+		"Address2": "Unit #26",
+		"City": "Carbonear",
+		"Province": "NL",
+		"Postal Code": "A1Y 1B3",
+		"Phone": "(709) 596-1686"
+	},
+	{
+		"Branch": "3930",
+		"Address": "149 Main St",
+		"Address2": "",
+		"City": "Stephenville",
+		"Province": "NL",
+		"Postal Code": "A2N 1J7",
+		"Phone": "(709) 643-5043"
+	},
+	{
+		"Branch": "3931",
+		"Address": "10 Merchant Dr",
+		"Address2": "",
+		"City": "Mount Pearl",
+		"Province": "NL",
+		"Postal Code": "A1N 5J5",
+		"Phone": "(709) 745-1725"
+	},
+	{
+		"Branch": "3934",
+		"Address": "29 Roe Ave",
+		"Address2": "Unit #2",
+		"City": "Gander",
+		"Province": "NL",
+		"Postal Code": "A1V 1W5",
+		"Phone": "(709) 256-3139"
+	},
+	{
+		"Branch": "3943",
+		"Address": "344 Conception Bay Hwy",
+		"Address2": "Unit 6",
+		"City": "Conception Bay South",
+		"Province": "NL",
+		"Postal Code": "A1X 7A3",
+		"Phone": "(709) 834-5132"
+	},
+	{
+		"Branch": "3945",
+		"Address": "470 Topsail Rd",
+		"Address2": "Unit FS10",
+		"City": "St. John's",
+		"Province": "NL",
+		"Postal Code": "A1E 2C7",
+		"Phone": "(709) 364-8319"
+	},
+	{
+		"Branch": "3524",
+		"Address": "320 McArthur Ave",
+		"Address2": "Unit A",
+		"City": "Ottawa",
+		"Province": "ON",
+		"Postal Code": "K1L 5G2",
+		"Phone": "(613) 744-7633"
+	},
+	{
+		"Branch": "3525",
+		"Address": "123 Lombard St",
+		"Address2": "Units 5",
+		"City": "Smiths Falls",
+		"Province": "ON",
+		"Postal Code": "K7A 0A2",
+		"Phone": "(613) 284-1600"
+	},
+	{
+		"Branch": "3527",
+		"Address": "1100 Pembroke St E",
+		"Address2": "Unit #307A",
+		"City": "Pembroke",
+		"Province": "ON",
+		"Postal Code": "K8A 6Y7",
+		"Phone": "(613) 735-0999"
+	},
+	{
+		"Branch": "3528",
+		"Address": "837 Pitt St",
+		"Address2": "Unit #5",
+		"City": "Cornwall",
+		"Province": "ON",
+		"Postal Code": "K6J 3S4",
+		"Phone": "(613) 930-2170"
+	},
+	{
+		"Branch": "3550",
+		"Address": "2206 Carling Ave",
+		"Address2": "",
+		"City": "Ottawa",
+		"Province": "ON",
+		"Postal Code": "K2A 1H3",
+		"Phone": "(613) 820-3850"
+	},
+	{
+		"Branch": "3556",
+		"Address": "1910 St. Laurent Blvd",
+		"Address2": "Unit #11",
+		"City": "Ottawa",
+		"Province": "ON",
+		"Postal Code": "K1G 1A4",
+		"Phone": "(613) 521-1110"
+	},
+	{
+		"Branch": "3576",
+		"Address": "2399 Parkedale Ave E.",
+		"Address2": "Unit 8B",
+		"City": "Brockville",
+		"Province": "ON",
+		"Postal Code": "K6V 3G9",
+		"Phone": "(613) 342-6504"
+	},
+	{
+		"Branch": "3582",
+		"Address": "640 O'Brien",
+		"Address2": "Unit #3A",
+		"City": "Renfrew",
+		"Province": "ON",
+		"Postal Code": "K7V OB4",
+		"Phone": "(613) 432-3100"
+	},
+	{
+		"Branch": "3590",
+		"Address": "212 Main St E.",
+		"Address2": "",
+		"City": "Hawkesbury",
+		"Province": "ON",
+		"Postal Code": "K6A 1A5",
+		"Phone": "(613) 632-3272"
+	},
+	{
+		"Branch": "3902",
+		"Address": "172 Wyse Rd",
+		"Address2": "Unit 0100",
+		"City": "Dartmouth",
+		"Province": "NS",
+		"Postal Code": "B3A 1M6",
+		"Phone": "(902) 464-4259"
+	},
+	{
+		"Branch": "3903",
+		"Address": "421 Lahave St",
+		"Address2": "Unit 360",
+		"City": "Bridgewater",
+		"Province": "NS",
+		"Postal Code": "B4V 3A2",
+		"Phone": "(902) 543-5777"
+	},
+	{
+		"Branch": "3906",
+		"Address": "278 Lacewood Dr",
+		"Address2": "",
+		"City": "Halifax",
+		"Province": "NS",
+		"Postal Code": "B3M 3N8",
+		"Phone": "(902) 423-1365"
+	},
+	{
+		"Branch": "3907",
+		"Address": "799 Sackville Dr",
+		"Address2": "",
+		"City": "Lower Sackville",
+		"Province": "NS",
+		"Postal Code": "B4E 1R8",
+		"Phone": "(902) 864-1845"
+	},
+	{
+		"Branch": "3914",
+		"Address": "54 Silver Fox Avenue",
+		"Address2": "Unit 3",
+		"City": "New Minas",
+		"Province": "NS",
+		"Postal Code": "B4N 0E4",
+		"Phone": "(902) 681-1800"
+	},
+	{
+		"Branch": "3922",
+		"Address": "86 Starrs Rd",
+		"Address2": "Unit 1",
+		"City": "Yarmouth",
+		"Province": "NS",
+		"Postal Code": "B5A 2T5",
+		"Phone": "(902) 742-1211"
+	},
+	{
+		"Branch": "3935",
+		"Address": "963 Central Ave",
+		"Address2": "Unit #48",
+		"City": "Greenwood",
+		"Province": "NS",
+		"Postal Code": "B0P 1N0",
+		"Phone": "(902) 765-2797"
+	}
+	
+]
