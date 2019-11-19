@@ -11,7 +11,8 @@ export default class ExcelForm extends React.Component
             telephone: " ", 
             address: " ", 
             city: " ", 
-            postal: " "
+            postal: " ",
+            callCenter: null
         }
     }
 
@@ -51,7 +52,7 @@ export default class ExcelForm extends React.Component
                                     <h6 className="center-align">Billing Address</h6>
                                     <div className="input-field col s12 center-align">
                                             <select className="browser-default">
-                                                <option value="">Choose your option</option>
+                                                <option value="">Choose Name</option>
                                                 <option value="1">Easyfinancial</option>
                                                 <option value="2">Easyhome</option>
                                                 <option value="Ho">Head Office</option>
@@ -102,16 +103,6 @@ export default class ExcelForm extends React.Component
                                                         <input id="callCenter" type="number" onChange={this.handleChange}  className="validate" />
                                                         <label for="callCenter">Call Center Software-ACD Agent & Reporting Bundle:</label>
                                                 </div>
-                                                {/* <div className="input-field col s4">
-                                                        
-                                                        <input id="postal" type="tel" className="validate" />
-                                                        <label for="postal">Postal</label>
-                                                </div>
-                                                <div className="input-field col s4">
-                                                        
-                                                        <input id="fax" type="tel" className="validate" />
-                                                        <label for="fax">Fax number</label>
-                                                </div> */}
                                         </div>
                                         <div className="row">
                                             <h6 className="center-align">Branches</h6>
