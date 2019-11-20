@@ -7,11 +7,11 @@ export default class ExcelForm extends React.Component
 
     state = {
         ticket : {
-            store: " ", 
-            telephone: " ", 
-            address: " ", 
-            city: " ", 
-            postal: " "
+            store: "  ", 
+            telephone: "  ", 
+            address: "  ", 
+            city: "  ", 
+            postal: "  "
         }
     }
 
