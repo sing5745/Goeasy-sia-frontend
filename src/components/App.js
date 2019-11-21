@@ -37,7 +37,6 @@ export default class App extends React.Component{
 
     return (
       <>
-         
          <Navbar 
            isLogged={this.state.isLogged} 
            loginUser={this.loginUser}

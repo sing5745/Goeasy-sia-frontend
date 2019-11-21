@@ -1,5 +1,6 @@
 import React from 'react';
 import {updateFields} from '../../helpers';
+import { Button, Icon, TextInput} from 'react-materialize';
 var data = require('../../data/data.json');
 
 export default class ExcelForm extends React.Component
@@ -7,20 +8,12 @@ export default class ExcelForm extends React.Component
 
     state = {
         ticket : {
-<<<<<<< HEAD
-            store: "  ", 
-            telephone: "  ", 
-            address: "  ", 
-            city: "  ", 
-            postal: "  "
-=======
-            store: " ", 
-            telephone: " ", 
-            address: " ", 
-            city: " ", 
-            postal: " ",
-            callCenter: null
->>>>>>> bd2118380cc0fd63f2f7a312c8b504684a21ade8
+            store: "", 
+            telephone: "", 
+            address: "", 
+            city: "", 
+            postal: "",
+
         }
     }
 
@@ -40,11 +33,40 @@ export default class ExcelForm extends React.Component
         if (id === 'store'){
             updateFields(ticket, data, value); 
         }
-            
+        
+        console.log(id, ticket);
+
          this.setState({ticket:ticket});
         
+         
+
          console.log(ticket);
       };
+
+      handleSubmit = (event) => {
+        event.preventDefault();
+        //console.log(this.state.ticket);
+        console.log('Submitting form');
+
+        console.log(this.state.ticket);
+        
+
+        this.submitForm(this.state.ticket);
+
+    
+      }
+
+      async submitForm(ticket){
+        await fetch('http://192.168.0.27:8080/submit', {
+            method: 'POST',
+            headers: {
+              'Accept': 'application/json',
+              'Content-Type': 'application/json',
+              'mode': 'no cors'
+            },
+            body: JSON.stringify(ticket),
+          }).then(response => response.json().then(data => console.log(data)));
+      }  
 
     render(){
         
@@ -55,7 +77,7 @@ export default class ExcelForm extends React.Component
                         <h1 className="center-align">Excel Edit</h1>
                     </div>
                         <div className="row">
-                                <form className="col s12">
+                                <form className="col s12 center-align" onSubmit={this.handleSubmit}>
                                 <div className="row">
                                     <h6 className="center-align">Billing Address</h6>
                                     <div className="input-field col s12 center-align">
@@ -72,37 +94,26 @@ export default class ExcelForm extends React.Component
                                     {/* <!-- Installation address --> */}
                                     <div className="row">
                                             <h6 className="center-align">Installation Address</h6>
+                                            
                                             <div className="input-field col s4">
-                                                    <i className="material-icons prefix">home</i>
-                                                    <input id="store" type="text" onChange={this.handleChange} className="validate" />
-                                                    <label for="store">Store</label>
+                                                <TextInput id="store" className="validate" icon="home" label="Email" onChange={this.handleChange}/>
                                             </div>
                                             <div className="input-field col s4">
-                                                    <i className="material-icons prefix">phone</i>
-                                                    <input id="telephone" type="tel" onChange={this.handleChange} value={this.state.ticket.telephone} className="validate" />
-                                                    <label for="telephone">Telephone</label>
+                                                    <TextInput id="telephone" className="validate" icon="phone" value={this.state.ticket.telephone} label="Telephone" onChange={this.handleChange}/>
                                             </div>
                                             <div className="input-field col s4">
-                                                    <i className="material-icons prefix">location_on</i>
-                                                    <input id="address" type="tel" onChange={this.handleChange} value={this.state.ticket.address} className="validate" />
-                                                    <label for="address">Address</label>
+                                                    <TextInput id="address" className="validate" icon="location_on" value={this.state.ticket.address} label="Address" onChange={this.handleChange}/>
                                             </div>
                                         </div>
                                         <div className="row">
                                                 <div className="input-field col s4">
-                                                        <i className="material-icons prefix">location_city</i>
-                                                        <input id="city" type="text"onChange={this.handleChange}  value={this.state.ticket.city}className="validate" />
-                                                        <label for="city">City</label>
+                                                        <TextInput id="address" className="validate" icon="location_city" value={this.state.ticket.city} label="City" onChange={this.handleChange}/>
                                                 </div>
-                                                <div className="input-field col s4">
-                                                        
-                                                        <input id="postal" type="tel" onChange={this.handleChange} value={this.state.ticket.postal}  className="validate" />
-                                                        <label for="postal">Postal</label>
+                                                <div className="input-field col s4">   
+                                                        <TextInput id="postal" className="validate" value={this.state.ticket.postal} label="Postal" onChange={this.handleChange}/>
                                                 </div>
-                                                <div className="input-field col s4">
-                                                        
-                                                        <input id="fax" type="tel" onChange={this.handleChange} className="validate" />
-                                                        <label for="fax">Fax number</label>
+                                                <div className="input-field col s4">   
+                                                        <TextInput id="fax" className="validate" label="Fax" onChange={this.handleChange}/>
                                                 </div>
                                         </div>
                                         <div className="row">
@@ -170,7 +181,9 @@ export default class ExcelForm extends React.Component
                                                  <label for="chameleonHeadset">Chameleon 2003 Complete Headset</label>
                                             </div>
                                         </div>
-
+                                        <Button  href="#modal1" type="submit"  waves="light">Submit
+                                            <Icon right>send</Icon>
+                                        </Button>
                                 </form>
                             </div>
                 </div>

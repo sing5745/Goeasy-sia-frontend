@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter, Route, Switch, Link} from 'react-router-dom';
 import ExcelForm from '../form/ExcelForm';
 import Login from '../form/Login';
+import Header from '../header/Header';
 
 export default class Navbar extends React.Component
 {
@@ -32,7 +33,7 @@ export default class Navbar extends React.Component
                     </div>
                   </nav>
                 <Switch>
-                    <Route 
+                <Route 
                       exact path="/"  
                       render=
                       {
@@ -46,6 +47,11 @@ export default class Navbar extends React.Component
                                 />
                       }
                     />
+                  {
+                    this.props.isLogged ? <Route exact path="/excel-form" component={ExcelForm} /> :
+                    <Header providedLink={<Link to="/" className="brand-logo">Login</Link>}/>
+                  }
+                    
                     <Route exact path="/" component={Login} />
                     <Route exact path="/excel-form" component={ExcelForm} />   
                 </Switch>

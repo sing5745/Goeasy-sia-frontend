@@ -1,7 +1,10 @@
 import React from 'react';
+import { Modal, Button, Icon} from 'react-materialize';
 
 export default class Login extends React.Component
 {
+   
+
     handleSubmit = (event) => {
         event.preventDefault();
         //console.log(this.state.ticket);
@@ -12,6 +15,13 @@ export default class Login extends React.Component
         alert("Logged in");
         //this.setState({modal:true});
 
+        console.log(this.props.location.pathname );
+
+       
+        this.props.history.push(`/excel-form`);
+        
+                //(this.props.history.location.pathname !== "excel-form") ? this.props.history.push(`/excel-form`);
+        //this.props.history.push(`/excel-form`);
 
     }
 
@@ -19,6 +29,7 @@ export default class Login extends React.Component
         
         return (
             <>
+
                 <div className="container">
                     <h1 className="center-align">Login</h1>
                     <div className="row">
@@ -35,12 +46,16 @@ export default class Login extends React.Component
                             <label htmlFor="userEmail">Email</label>
                             </div>
                         </div>
-                        <button className="btn waves-effect waves-light" type="submit" name="action">Submit
-                            <i className="material-icons right">send</i>
-                        </button>
+                        <Button  href="#modal1" type="submit"  waves="light">Submit
+                            <Icon right>send</Icon>
+                        </Button>
                         </form>
                     </div>
                 </div>
+                <Modal id="modal1" header="Login">
+                    alert("Hi");
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                </Modal>
                 
       
             </>
