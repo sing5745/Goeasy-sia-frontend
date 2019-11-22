@@ -96,7 +96,7 @@ export default class ExcelForm extends React.Component
                                             <h6 className="center-align">Installation Address</h6>
                                             
                                             <div className="input-field col s4">
-                                                <TextInput id="store" className="validate" icon="home" label="Email" onChange={this.handleChange}/>
+                                                <TextInput id="store" className="validate" icon="home" label="Store" onChange={this.handleChange}/>
                                             </div>
                                             <div className="input-field col s4">
                                                     <TextInput id="telephone" className="validate" icon="phone" value={this.state.ticket.telephone} label="Telephone" onChange={this.handleChange}/>
