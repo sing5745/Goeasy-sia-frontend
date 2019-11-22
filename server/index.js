@@ -8,8 +8,8 @@ var wb = new Excel.Workbook();
 var path = require('path');
 var filePath = path.resolve(__dirname,'64-SIA-S3927.xlsx');
 
-app.use(bodyParser.urlencoded({ extended: false }));
-
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
 
 app.get('/api/tracker', (req, res) => {
   const name = req.query.name || 'World';
@@ -41,8 +41,22 @@ app.get('/api/tracker', (req, res) => {
   res.send(JSON.stringify(data));
 });
 
-app.get('/download/:fileDownload', function(req, res){
-  const file = path.resolve(__dirname,req.param.fileDownload + '.xlsx');
+//post request working now
+app.post('/api/submit', function(req, res){
+  //const file = path.resolve(__dirname,req.param.fileDownload + '.xlsx');
+
+  console.log(req.body);
+
+  if(req.body.mitel350)
+  {
+    res.send(JSON.stringify(req.body.mitel350));
+  }
+
+  res.send(JSON.stringify("Not found")); // Set disposition and send it.
+});
+
+app.get('/download', function(req, res){
+  const file = path.resolve(__dirname,'64-SIA-S3927' + '.xlsx');
   res.download(file); // Set disposition and send it.
 });
 
