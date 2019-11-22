@@ -1,6 +1,6 @@
 import React from 'react';
 import {updateFields} from '../../helpers';
-import { Button, Icon, TextInput} from 'react-materialize';
+import { Button, Icon, TextInput, Autocomplete} from 'react-materialize';
 var data = require('../../data/data.json');
 
 export default class ExcelForm extends React.Component
@@ -96,13 +96,19 @@ export default class ExcelForm extends React.Component
                                             <h6 className="center-align">Installation Address</h6>
                                             
                                             <div className="input-field col s4">
-                                                <TextInput id="store" className="validate" icon="home" label="Store" onChange={this.handleChange}/>
+                                                 <TextInput id="store" onChange={this.handleChange} className="validate" icon="home" label="Store" /> 
+                                                {/* <Autocomplete id="store" label="Store" options={{data: {"2530": null,"2532": null,"2554": 'https://placehold.it/250x250'}}} onChange={this.handleChange}  /> */}
                                             </div>
                                             <div className="input-field col s4">
                                                     <TextInput id="telephone" className="validate" icon="phone" value={this.state.ticket.telephone} label="Telephone" onChange={this.handleChange}/>
                                             </div>
+                                            <br />
                                             <div className="input-field col s4">
-                                                    <TextInput id="address" className="validate" icon="location_on" value={this.state.ticket.address} label="Address" onChange={this.handleChange}/>
+                                                    <i class="material-icons prefix">location_on</i> 
+                                                    {/* <TextInput id="address" className="validate" icon="location_on" value={this.state.ticket.address} label="Address" onChange={this.handleChange}/> */}
+                                                    <input id="address" type="text" onChange={this.handleChange} value={this.state.ticket.address} className="validate" />
+                                                    <label for="address">Address</label>
+                                                    
                                             </div>
                                         </div>
                                         <div className="row">
