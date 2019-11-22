@@ -11,7 +11,7 @@ var filePath = path.resolve(__dirname,'64-SIA-S3927.xlsx');
 app.use(bodyParser.urlencoded({ extended: false }));
 
 
-app.get('/api/greeting', (req, res) => {
+app.get('/api/tracker', (req, res) => {
   const name = req.query.name || 'World';
   res.setHeader('Content-Type', 'application/json');
 
@@ -30,11 +30,19 @@ app.get('/api/greeting', (req, res) => {
     
   });
 
-  res.send(JSON.stringify({ greeting: `Hello ${name}!` }));
+  var data = {
+    "number": 75,
+    "lastEntry" : "19 November 2019 8:30 AM",
+    "lastEntryBy" : "isingh",
+    "lastStore" : "2567",
+    "lastExcelSubmitted" : "SIA-68-B2567"
+  };
+
+  res.send(JSON.stringify(data));
 });
 
-app.get('/download', function(req, res){
-  const file = path.resolve(__dirname,'64-SIA-S3927.xlsx');
+app.get('/download/:fileDownload', function(req, res){
+  const file = path.resolve(__dirname,req.param.fileDownload + '.xlsx');
   res.download(file); // Set disposition and send it.
 });
 
