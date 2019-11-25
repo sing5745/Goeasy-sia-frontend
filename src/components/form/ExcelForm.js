@@ -97,7 +97,7 @@ export default class ExcelForm extends React.Component
                                             
                                             <div className="input-field col s4">
                                                  <TextInput id="store" onChange={this.handleChange} className="validate" icon="home" label="Store" /> 
-                                                {/* <Autocomplete id="store" label="Store" options={{data: {"2530": null,"2532": null,"2554": 'https://placehold.it/250x250'}}} onChange={this.handleChange}  /> */}
+                                                {/* <Autocomplete id="store" label="Store" options={{data: {"2530": null,"2532": null,"2554": 'https://placehold.it/250x250'}}} onAutocomplete={this.handleChange}  /> */}
                                             </div>
                                             <div className="input-field col s4">
                                                     <TextInput id="telephone" className="validate" icon="phone" value={this.state.ticket.telephone} label="Telephone" onChange={this.handleChange}/>

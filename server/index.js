@@ -1,8 +1,10 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const Excel = require('exceljs');
-
+var cors = require('cors');
 const app = express();
+
+app.use(cors());
 
 var wb = new Excel.Workbook();
 var path = require('path');
