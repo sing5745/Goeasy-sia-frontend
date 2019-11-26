@@ -30,7 +30,7 @@ app.get('/api/tracker', (req, res) => {
     console.log(sh.getCell('C25').value);
 
     
-  });
+});
 
   var data = {
     "number": 75,
@@ -47,12 +47,24 @@ app.get('/api/tracker', (req, res) => {
 app.post('/api/submit', function(req, res){
   //const file = path.resolve(__dirname,req.param.fileDownload + '.xlsx');
 
+  const {phone, deploy, deployCable} = req.body;
+
   console.log(req.body);
 
-  if(req.body.mitel350)
+  if(phone)
   {
-    res.send(JSON.stringify(req.body.mitel350));
+    res.send(JSON.stringify(req.body.phone));
   }
+
+  if (deploy)
+  {
+    res.send(JSON.stringify(req.body.deploy));
+  }
+
+  if (deployCable){
+    res.send(JSON.stringify(req.body.deployCable));
+  }
+
 
   res.send(JSON.stringify("Not found")); // Set disposition and send it.
 });
