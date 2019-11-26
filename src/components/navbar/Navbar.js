@@ -3,6 +3,7 @@ import { BrowserRouter, Route, Switch, Link} from 'react-router-dom';
 import ExcelForm from '../form/ExcelForm';
 import Login from '../form/Login';
 import Header from '../header/Header';
+import CreateExcel from '../form/CreateExcel';
 
 export default class Navbar extends React.Component
 {
@@ -15,6 +16,7 @@ export default class Navbar extends React.Component
                         <Link to="/" className="brand-logo">SIA Web Portal</Link>
                       <ul id="nav-mobile" className="right hide-on-med-and-down">
                         <li><Link to="/excel-form">SIA web portal</Link></li>
+                        <li><Link to="/create-excel">Create Excel</Link></li>
                         <li>
                           <Link to="/tracker">
                             <span className="new badge black" data-badge-caption="tracker">{
@@ -47,13 +49,14 @@ export default class Navbar extends React.Component
                                 />
                       }
                     />
-                  {
+                  {/* {
                     this.props.isLogged ? <Route exact path="/excel-form" component={ExcelForm} /> :
                     <Header providedLink={<Link to="/" className="brand-logo">Login</Link>}/>
-                  }
+                  } */}
                     
                     <Route exact path="/" component={Login} />
                     <Route exact path="/excel-form" component={ExcelForm} />   
+                    <Route exact path="/create-excel" component={CreateExcel} /> 
                 </Switch>
             </BrowserRouter>
         )
