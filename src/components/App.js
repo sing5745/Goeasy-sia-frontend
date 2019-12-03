@@ -15,7 +15,7 @@ export default class App extends React.Component{
   }
 
   async componentDidMount(){
-    await fetch('http://localhost:3002/api/tracker', {
+    await fetch('http://localhost:3001/api/tracker', {
             method: 'GET',
             headers: {
               'Accept': 'application/json',
