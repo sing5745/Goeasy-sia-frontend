@@ -22,8 +22,31 @@ export default class App extends React.Component{
               'Content-Type': 'application/json',
                'mode': 'no cors'
             },
-          }).then(response => response.json().then(data => this.setState({tracker:data.number})));
+          }).then(response => response.json().then(data => {
+            console.log(data);
+            this.setState({tracker:data.number});
+          }));
   }
+
+  async  detectTracker(){
+    await fetch('http://localhost:3001/api/tracker', {
+            method: 'GET',
+            headers: {
+              'Accept': 'application/json',
+              'Content-Type': 'application/json',
+               'mode': 'no cors'
+            },
+          }).then(response => response.json().then(data => {
+            console.log(data);
+            this.setState({tracker:data.number});
+          }));
+  }
+
+   updateTracker = () => {
+     this.detectTracker()
+  }
+
+  
 
   render(){
     console.log(this.state.tracker);
@@ -42,7 +65,8 @@ export default class App extends React.Component{
            loginUser={this.loginUser}
            userName={this.state.userName}
            userEmail={this.state.userEmail}
-          tracker={number}
+           tracker={number}
+           updateTracker={this.updateTracker}
          />
         
       </>

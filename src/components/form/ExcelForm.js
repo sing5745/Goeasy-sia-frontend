@@ -1,6 +1,7 @@
 import React from 'react';
 import {updateFields} from '../../helpers';
-import { Button, Icon, TextInput} from 'react-materialize';
+import { Button, Icon, TextInput, Preloader} from 'react-materialize';
+
 var data = require('../../data/data.json');
 
 export default class ExcelForm extends React.Component
@@ -17,7 +18,8 @@ export default class ExcelForm extends React.Component
             installPhone: null,
             onSiteVisit: null,
             installAndVisit: null
-        }
+        },
+        loading: false
     }
 
     handleChange = (event) => {
@@ -53,13 +55,22 @@ export default class ExcelForm extends React.Component
         console.log(this.state.ticket);
         
 
-        this.submitForm(this.state.ticket);
+        //this.submitForm(this.state.ticket);
 
+        console.log("waiting");
+        this.setState({loading:true});
+        setTimeout(function(){
+            this.props.updateTracker();
+            this.props.history.push("/tracker");
+        }.bind(this), 1500);
+
+        
+        //this.props.
     
       }
 
       async submitForm(ticket){
-        await fetch('http://10.48.48.194:3001/api/submit', {
+        await fetch('http://localhost:3001/api/submit', {
             method: 'POST',
             headers: {
               'Accept': 'application/json',
@@ -72,6 +83,7 @@ export default class ExcelForm extends React.Component
       }  
 
     render(){
+        console.log(this.props.history);
         
         return (
             <>
@@ -147,11 +159,21 @@ export default class ExcelForm extends React.Component
                                                  <label for="installAndVisit">On site Visit to  complete cable run and Install phone </label>
                                             </div>
                                         </div>
+                                        <div className="row">
+                                            <Preloader
+                                                active = {this.state.loading}
+                                                color="blue"
+                                                flashing
+                                            />
+                                        </div>
+                                       
                                         <Button  href="#modal1" type="submit"  waves="light">Submit
                                             <Icon right>send</Icon>
                                         </Button>
+                                          
                                 </form>
                             </div>
+                            
                 </div>
             </>
         )

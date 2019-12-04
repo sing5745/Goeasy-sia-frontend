@@ -4,6 +4,7 @@ import ExcelForm from '../form/ExcelForm';
 import Login from '../form/Login';
 // import Header from '../header/Header';
 import CreateExcel from '../form/CreateExcel';
+import Tracker from '../form/Tracker';
 
 export default class Navbar extends React.Component
 {
@@ -55,7 +56,17 @@ export default class Navbar extends React.Component
                   } */}
                     
                     <Route exact path="/" component={Login} />
-                    <Route exact path="/excel-form" component={ExcelForm} />   
+                    <Route exact path="/excel-form" 
+                    render=
+                    {
+                      (props) => 
+                              <ExcelForm 
+                                tracker={this.props.tracker} 
+                                updateTracker={this.props.updateTracker}
+                                history={props.history}/>
+                    }
+                    />   
+                    <Route exact path="/tracker" component={Tracker} />  
                     <Route exact path="/create-excel" component={CreateExcel} /> 
                 </Switch>
             </BrowserRouter>
