@@ -1,6 +1,6 @@
 import React from 'react';
 import {updateFields} from '../../helpers';
-import { Button, Icon, TextInput, Autocomplete, Select} from 'react-materialize';
+import { Button, Icon, TextInput, Select} from 'react-materialize';
 var data = require('../../data/data.json');
 
 export default class CreateExcel extends React.Component
@@ -87,8 +87,7 @@ export default class CreateExcel extends React.Component
                                                 <option value="2">Easyhome</option>
                                                 <option value="Ho">Head Office</option>
                                             </select>
-                                    </div>
-                                   
+                                    </div> 
                                 </div>
                                     {/* <!-- Installation address --> */}
                                     <div className="row">
