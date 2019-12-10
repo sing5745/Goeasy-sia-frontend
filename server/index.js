@@ -12,7 +12,7 @@ var path = require('path');
 
 
 var currentTrackingFile = path.resolve(__dirname,'current_tracker.xlsx');
-var defaultFile = path.resolve(__dirname,'64-SIA-S3927.xlsx');
+var defaultFile = path.resolve(__dirname,'default.xlsx');
 
 var currentNumber;
 
@@ -41,6 +41,7 @@ app.get('/api/tracker', (req, res) => {
   
 });
 
+var fileName = "";
 //post request working now
 app.post('/api/submit', function(req, res){
 
@@ -79,14 +80,27 @@ app.post('/api/submit', function(req, res){
     sh.getCell('H17').value = postal;
     sh.getCell('H17').value = telephone;
 
-    sh.getCell('A38').value = parseInt(phones);
+    if(phones !== null){
+      sh.getCell('A38').value = parseInt(phones);
+    }
+    
 
     //install phone
-    sh.getCell('A59').value = parseInt(installPhone)
+    if(installPhone !== null){
+      sh.getCell('A59').value = parseInt(installPhone);
+    }
+    
     
 
     //on site visit and install phone
-    sh.getCell('A60').value = parseInt(installAndVisit)
+    if(installAndVisit !== null){
+      sh.getCell('A60').value = parseInt(installAndVisit);
+    }
+    
+
+    
+    fileName = (currentNumber + 1) + "-SIA-" + storeValue + '.xlsx';
+    console.log(currentNumber, fileName);
 
     //sh.getRow(1).getCell(2).value = 32;
     wb.xlsx.writeFile((currentNumber + 1) + "-SIA-" + storeValue + '.xlsx');
@@ -96,24 +110,17 @@ app.post('/api/submit', function(req, res){
 incrementTracker();
 
 
-const file = path.resolve(__dirname,(currentNumber + 1) + "-SIA-" + storeValue + '.xlsx');
-console.log(file);
-res.send(file.toString()); // Set disposition and send it.
+// const file = path.resolve(__dirname,(currentNumber + 1) + "-SIA-" + storeValue + '.xlsx');
+// console.log(file);
+res.send({file: fileName}); // Set disposition and send it.
 
 });
 
 
-app.get('/download', function(req, res){
-  const file = path.resolve(__dirname,'64-SIA-S3927' + '.xlsx');
+app.get('/download/:fileName', function(req, res){
+  var fileName = req.params.fileName;
+  const file = path.resolve(__dirname,fileName);
 
-  // const deleteFile = path.resolve(__dirname,'sample2' + '.xlsx');
-  // fs.unlink(deleteFile, (err) => {
-  //   if (err) {
-  //     console.log("File doesn't exist");
-  //   } 
-    
-  // });
-  incrementTracker();
   //res.finished()
   res.download(file); // Set disposition and send it.
 

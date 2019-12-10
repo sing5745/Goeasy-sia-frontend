@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from './navbar/Navbar';
+import {API} from '../helpers';
 
 export default class App extends React.Component{
 
@@ -7,7 +8,8 @@ export default class App extends React.Component{
     isLogged: false,
     userName: null,
     userEmail : null,
-    tracker: null
+    tracker: null,
+    excelCreated: null
   }
 
   loginUser = (name, email) => {
@@ -15,7 +17,7 @@ export default class App extends React.Component{
   }
 
   async componentDidMount(){
-    await fetch('http://localhost:3001/api/tracker', {
+    await fetch(API() + 'api/tracker', {
             method: 'GET',
             headers: {
               'Accept': 'application/json',
@@ -29,7 +31,7 @@ export default class App extends React.Component{
   }
 
   async  detectTracker(){
-    await fetch('http://localhost:3001/api/tracker', {
+    await fetch(API() + 'api/tracker', {
             method: 'GET',
             headers: {
               'Accept': 'application/json',
@@ -46,6 +48,9 @@ export default class App extends React.Component{
      this.detectTracker()
   }
 
+  linksToExcel = (links) => {
+    this.setState({excelCreated:links});
+  }
   
 
   render(){
@@ -67,6 +72,8 @@ export default class App extends React.Component{
            userEmail={this.state.userEmail}
            tracker={number}
            updateTracker={this.updateTracker}
+           linksToExcel={this.linksToExcel}
+           excelCreated={this.state.excelCreated}
          />
         
       </>

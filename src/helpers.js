@@ -23,3 +23,8 @@ export function updateFields(ticket, data, value) {
     
   }
 }
+
+export function API() {
+  const PORT = "3001";
+  return `http://192.168.0.15:${PORT}/`;
+}

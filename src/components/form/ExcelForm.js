@@ -1,5 +1,5 @@
 import React from 'react';
-import {updateFields} from '../../helpers';
+import {updateFields, API} from '../../helpers';
 import { Button, Icon, TextInput, Preloader} from 'react-materialize';
 
 var data = require('../../data/data.json');
@@ -55,7 +55,7 @@ export default class ExcelForm extends React.Component
         console.log(this.state.ticket);
         
 
-        //this.submitForm(this.state.ticket);
+        this.submitForm(this.state.ticket);
 
         console.log("waiting");
         this.setState({loading:true});
@@ -70,7 +70,7 @@ export default class ExcelForm extends React.Component
       }
 
       async submitForm(ticket){
-        await fetch('http://localhost:3001/api/submit', {
+        await fetch(API() + 'api/submit', {
             method: 'POST',
             headers: {
               'Accept': 'application/json',
@@ -78,12 +78,10 @@ export default class ExcelForm extends React.Component
               'mode': 'no cors'
             },
             body: JSON.stringify(ticket),
-          }).then(response => window.location.href = 'localhost:3001/download');
-          //.then(data => window.location.href = 'localhost:3001/download'));
+          }).then(response => response.json().then(data => this.props.linksToExcel(data.file) ));
       }  
 
     render(){
-        console.log(this.props.history);
         
         return (
             <>

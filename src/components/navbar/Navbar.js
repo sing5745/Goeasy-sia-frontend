@@ -63,10 +63,14 @@ export default class Navbar extends React.Component
                               <ExcelForm 
                                 tracker={this.props.tracker} 
                                 updateTracker={this.props.updateTracker}
-                                history={props.history}/>
+                                history={props.history}
+                                linksToExcel={this.props.linksToExcel}/>
                     }
                     />   
-                    <Route exact path="/tracker" component={Tracker} />  
+                    <Route exact path="/tracker" 
+                    render = {
+                      (props) => <Tracker excelCreated={this.props.excelCreated} />
+                    } />  
                     <Route exact path="/create-excel" component={CreateExcel} /> 
                 </Switch>
             </BrowserRouter>

@@ -1,5 +1,5 @@
 import React from 'react';
-import {updateFields} from '../../helpers';
+import {updateFields, API} from '../../helpers';
 import { Button, Icon, TextInput, Select} from 'react-materialize';
 var data = require('../../data/data.json');
 
@@ -51,13 +51,13 @@ export default class CreateExcel extends React.Component
         console.log(this.state.ticket);
         
 
-        this.submitForm(this.state.ticket);
+        //this.submitForm(this.state.ticket);
 
     
       }
 
       async submitForm(ticket){
-        await fetch('http://192.168.0.27:8080/submit', {
+        await fetch(API() + 'submit', {
             method: 'POST',
             headers: {
               'Accept': 'application/json',
@@ -65,7 +65,7 @@ export default class CreateExcel extends React.Component
               'mode': 'no cors'
             },
             body: JSON.stringify(ticket),
-          }).then(response => response.json().then(data => console.log(data)));
+          }).then(response => response.json().then(data => this.props.linksCreated));
       }  
 
     render(){
