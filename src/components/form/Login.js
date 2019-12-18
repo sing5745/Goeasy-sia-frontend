@@ -3,7 +3,19 @@ import { Modal, Button, Icon} from 'react-materialize';
 
 export default class Login extends React.Component
 {
+    state = {
+        email: "@goeasy.com"
+    }
    
+    handleChange = (event) => {
+        const target = event.target;
+        const value = target.value;
+   
+        //alert(value);
+        this.setState({email : value + "@goeasy.com"});
+
+
+      };
 
     handleSubmit = (event) => {
         event.preventDefault();
@@ -37,12 +49,12 @@ export default class Login extends React.Component
                         <div className="row">
                             <div className="input-field col s12">
                             <i className="material-icons prefix">account_circle</i>
-                            <input id="userName" type="text" className="validate" />
+                            <input id="userName" onChange={this.handleChange} type="text" className="validate" />
                             <label htmlFor="userName">Username</label>
                         </div>
                             <div className="input-field col s12">
                             <i className="material-icons prefix">email</i>
-                            <input id="userEmail" type="email" className="validate" />
+                            <input id="userEmail" type="email" value={this.state.email} className="validate" />
                             <label htmlFor="userEmail">Email</label>
                             </div>
                         </div>

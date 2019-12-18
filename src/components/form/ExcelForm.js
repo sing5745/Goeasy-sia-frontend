@@ -17,7 +17,9 @@ export default class ExcelForm extends React.Component
             phones: null,
             installPhone: null,
             onSiteVisit: null,
-            installAndVisit: null
+            installAndVisit: null,
+            userName: this.props.userName,
+            userEmail: this.props.userEmail
         },
         loading: false
     }
@@ -49,12 +51,9 @@ export default class ExcelForm extends React.Component
 
       handleSubmit = (event) => {
         event.preventDefault();
-        //console.log(this.state.ticket);
         console.log('Submitting form');
-
         console.log(this.state.ticket);
         
-
         this.submitForm(this.state.ticket);
 
         console.log("waiting");
@@ -63,9 +62,6 @@ export default class ExcelForm extends React.Component
             this.props.updateTracker();
             this.props.history.push("/tracker");
         }.bind(this), 1500);
-
-        
-        //this.props.
     
       }
 

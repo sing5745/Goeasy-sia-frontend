@@ -64,6 +64,8 @@ export default class Navbar extends React.Component
                                 tracker={this.props.tracker} 
                                 updateTracker={this.props.updateTracker}
                                 history={props.history}
+                                userName={this.props.userName}
+                                 userEmail={this.props.userEmail}
                                 linksToExcel={this.props.linksToExcel}/>
                     }
                     />   
