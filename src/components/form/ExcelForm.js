@@ -136,10 +136,45 @@ export default class ExcelForm extends React.Component
                                                         </select>
                                                         
                                                 </div> 
-                                            {/* <div className="input-field col s4">
-                                                 <input id="mitel5320e" type="number" onChange={this.handleChange}  className="validate" />
-                                                 <label for="mitel5320e">Mitel 5320e Telephone</label>
-                                            </div> */}
+                                             {/* <Select
+                                            onChange={function noRefCheck(){}}
+                                            options={{
+                                                classes: '',
+                                                dropdownOptions: {
+                                                alignment: 'left',
+                                                autoTrigger: true,
+                                                closeOnClick: true,
+                                                constrainWidth: true,
+                                                container: null,
+                                                coverTrigger: true,
+                                                hover: false,
+                                                inDuration: 150,
+                                                onCloseEnd: null,
+                                                onCloseStart: null,
+                                                onOpenEnd: null,
+                                                onOpenStart: null,
+                                                outDuration: 250
+                                                }
+                                            }}
+                                            value=""
+                                            >
+                                            <option
+                                                disabled
+                                                value=""
+                                            >
+                                                Choose your option
+                                            </option>
+                                            <option value="1">
+                                                Option 1
+                                            </option>
+                                            <option value="2">
+                                                Option 2
+                                            </option>
+                                            <option value="3">
+                                                Option 3
+                                            </option>
+                                            </Select> */}
+                                         
                                         </div>
                                         <div className="row">
                                             <h6 className="center-align">One Time Costs </h6>
